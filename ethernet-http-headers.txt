@@ -1,0 +1,7 @@
+HTTP/1.0 200 OK
+Content-Type: text/html
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-XSS-Protection: 1; report=http://www.example.com/xss
+

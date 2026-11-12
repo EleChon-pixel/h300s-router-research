@@ -1,0 +1,32 @@
+{
+  "checked_utc": "2026-11-12T01:32:04.715537+00:00",
+  "role": {
+    "username": "superuser",
+    "usermode": "admin",
+    "fw_version": "Vodafone-H-300s-v1.2.02.08"
+  },
+  "services": {
+    "ssh_status": "0",
+    "ssh_lan": "deny",
+    "ssh_wan": "deny",
+    "telnet_status": null,
+    "telnet_lan": null,
+    "telnet_wan": null
+  },
+  "configuration_restored": false,
+  "firmware_uploaded": false,
+  "system_log": {
+    "folder": "/home/user/Development/router-research/h300s/unit-logs/20261112T013204Z",
+    "bytes": 67060,
+    "sha256": "3b205f1923efce634f07709f1179588501d7aa897cfd47d1291164c3c84d2451",
+    "lines": 1194,
+    "boot_term_counts": {
+      "Linux version": 0,
+      "U-Boot": 0,
+      "mtd": 0,
+      "nand": 0,
+      "UBI": 0,
+      "kernel": 0
+    }
+  }
+}

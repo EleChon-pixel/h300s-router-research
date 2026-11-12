@@ -1,0 +1,84 @@
+[
+  {
+    "sha": "60c2ffc05d3b0d20c1faaee2c77872fa147ed1a4",
+    "node_id": "C_kwDOVKao_9oAKDYwYzJmZmMwNWQzYjBkMjBjMWZhYWVlMmM3Nzg3MmZhMTQ3ZWQxYTQ",
+    "commit": {
+      "author": {
+        "name": "edisionnano",
+        "email": "samantas5855@gmail.com",
+        "date": "2026-10-20T22:27:44Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-20T22:27:44Z"
+      },
+      "message": "Add H300s info",
+      "tree": {
+        "sha": "b106a80b09e234dcdae1ad43573b223d6012f314",
+        "url": "https://api.github.com/repos/edisionnano/Sercomm_Tools/git/trees/b106a80b09e234dcdae1ad43573b223d6012f314"
+      },
+      "url": "https://api.github.com/repos/edisionnano/Sercomm_Tools/git/commits/60c2ffc05d3b0d20c1faaee2c77872fa147ed1a4",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq1+rgCRC1aQ7uu5UhlAAAPjsQAGzYBv2MMmwfAcu7Ql3VD/QI\n8zCgFwbGd0M1PJUVbxfu0hMApQ8eIxyJ3UR80sP/8f14uoeOORfdcPbY0miALKrR\nL/9OcbODqNaglXoLQw4510MWP7t3mq2+StZupNr5y8U/4WX1/sw8OqvK+2l2g68Z\ncPiPftZohG1pitBeVXLT286K+s2sX4s2HK3uuSaZtnrsk57YEzAfVPP1CEyWWkGT\nRGlwMZBIa0SkjLdCLVDO7cHvlhAKpXXs4NsP2wya/MW9AyULi8zIo8iu6ppr/40R\n4JM1p6mRnpRCBlDr/FecPlALOmpiiiD6/IrzV3mCwV5OVKp/MJpEuwgpzHeA+Ejq\n3WhDPuNPxEsz1p5pziBD9AnWMah2RgqG7I9gtpCL2Z2sq5F6XMmRlamjTlm6ySZj\neOChOEa8iGsNEumFSVBjWmrb10CtnXvwL/l6R1HZZ9wNQpD5Qkkms2GrskkpaZ2r\nTfLI7PGmAfvXKLdPqCtxZ2ypjw/hf1b0FYPKZOvf8rfRuHY5oNOe5FLkii1/AVcj\nTY1O9AVk1RkmfqlSGbUyinExnsDaSNdvQHeZzXnCnRzlGcw//z04pLUZLd6QM4i4\npUkCoCspq7sa9dfzRdaGv3vU6cUk8qE8Qulp1QeI/ygY6/I2+SJhoO/NV+3/Dbho\nC/ABdOmDXpL5WIOncJ5E\n=UgIV\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree b106a80b09e234dcdae1ad43573b223d6012f314\nparent c9eb284ab758b43419e6e1d5ab45119c861c0d7f\nauthor edisionnano <samantas5855@gmail.com> 1792535264 +0300\ncommitter GitHub <noreply@github.com> 1792535264 +0300\n\nAdd H300s info",
+        "verified_at": "2026-10-20T22:27:44Z"
+      }
+    },
+    "url": "https://api.github.com/repos/edisionnano/Sercomm_Tools/commits/60c2ffc05d3b0d20c1faaee2c77872fa147ed1a4",
+    "html_url": "https://github.com/edisionnano/Sercomm_Tools/commit/60c2ffc05d3b0d20c1faaee2c77872fa147ed1a4",
+    "comments_url": "https://api.github.com/repos/edisionnano/Sercomm_Tools/commits/60c2ffc05d3b0d20c1faaee2c77872fa147ed1a4/comments",
+    "author": {
+      "login": "edisionnano",
+      "id": 26039434,
+      "node_id": "MDQ6VXNlcjI2MDM5NDM0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26039434?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/edisionnano",
+      "html_url": "https://github.com/edisionnano",
+      "followers_url": "https://api.github.com/users/edisionnano/followers",
+      "following_url": "https://api.github.com/users/edisionnano/following{/other_user}",
+      "gists_url": "https://api.github.com/users/edisionnano/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/edisionnano/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/edisionnano/subscriptions",
+      "organizations_url": "https://api.github.com/users/edisionnano/orgs",
+      "repos_url": "https://api.github.com/users/edisionnano/repos",
+      "events_url": "https://api.github.com/users/edisionnano/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/edisionnano/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c9eb284ab758b43419e6e1d5ab45119c861c0d7f",
+        "url": "https://api.github.com/repos/edisionnano/Sercomm_Tools/commits/c9eb284ab758b43419e6e1d5ab45119c861c0d7f",
+        "html_url": "https://github.com/edisionnano/Sercomm_Tools/commit/c9eb284ab758b43419e6e1d5ab45119c861c0d7f"
+      }
+    ]
+  }
+]

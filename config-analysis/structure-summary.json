@@ -1,0 +1,17 @@
+{
+  "xml_root": "DATAMODEL",
+  "elements": 275,
+  "objects": 128,
+  "account_objects": [
+    {
+      "path": "Device.LANConfigSecurity.X_SC_LoginAccount.3.",
+      "parameters": [
+        "Password"
+      ]
+    }
+  ],
+  "ssh_or_telnet_objects": [],
+  "is_full_nand_backup": false,
+  "modified_configuration_created": false,
+  "restored_to_router": false
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "name": ".rootfs",
+    "path": ".rootfs",
+    "sha": "f435bb7cd4873d6d7b1f84e54b4524c666ac5766",
+    "size": 0,
+    "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/.rootfs?ref=master",
+    "html_url": "https://github.com/0Lukee/vox30-sercomm-shg3000/tree/master/.rootfs",
+    "git_url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/f435bb7cd4873d6d7b1f84e54b4524c666ac5766",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/.rootfs?ref=master",
+      "git": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/f435bb7cd4873d6d7b1f84e54b4524c666ac5766",
+      "html": "https://github.com/0Lukee/vox30-sercomm-shg3000/tree/master/.rootfs"
+    }
+  },
+  {
+    "name": "README",
+    "path": "README",
+    "sha": "7c548a47c3013f737a8d2575a3f1945c4a4499b7",
+    "size": 1801,
+    "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/README?ref=master",
+    "html_url": "https://github.com/0Lukee/vox30-sercomm-shg3000/blob/master/README",
+    "git_url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/7c548a47c3013f737a8d2575a3f1945c4a4499b7",
+    "download_url": "https://raw.githubusercontent.com/0Lukee/vox30-sercomm-shg3000/master/README",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/README?ref=master",
+      "git": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/7c548a47c3013f737a8d2575a3f1945c4a4499b7",
+      "html": "https://github.com/0Lukee/vox30-sercomm-shg3000/blob/master/README"
+    }
+  },
+  {
+    "name": "build",
+    "path": "build",
+    "sha": "f1cf8539c2ddb88f0048ffdb8686fc1cb98baabd",
+    "size": 0,
+    "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/build?ref=master",
+    "html_url": "https://github.com/0Lukee/vox30-sercomm-shg3000/tree/master/build",
+    "git_url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/f1cf8539c2ddb88f0048ffdb8686fc1cb98baabd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/build?ref=master",
+      "git": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/f1cf8539c2ddb88f0048ffdb8686fc1cb98baabd",
+      "html": "https://github.com/0Lukee/vox30-sercomm-shg3000/tree/master/build"
+    }
+  },
+  {
+    "name": "doc",
+    "path": "doc",
+    "sha": "8519b07a69fe2f6ac61b4c7ae91304dce79cfa36",
+    "size": 0,
+    "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/doc?ref=master",
+    "html_url": "https://github.com/0Lukee/vox30-sercomm-shg3000/tree/master/doc",
+    "git_url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/8519b07a69fe2f6ac61b4c7ae91304dce79cfa36",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/doc?ref=master",
+      "git": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/8519b07a69fe2f6ac61b4c7ae91304dce79cfa36",
+      "html": "https://github.com/0Lukee/vox30-sercomm-shg3000/tree/master/doc"
+    }
+  },
+  {
+    "name": "drivers",
+    "path": "drivers",
+    "sha": "c56c0bd58913b4352ddf0797a74ebe733dfab2de",
+    "size": 0,
+    "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/drivers?ref=master",
+    "html_url": "https://github.com/0Lukee/vox30-sercomm-shg3000/tree/master/drivers",
+    "git_url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/c56c0bd58913b4352ddf0797a74ebe733dfab2de",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/drivers?ref=master",
+      "git": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/c56c0bd58913b4352ddf0797a74ebe733dfab2de",
+      "html": "https://github.com/0Lukee/vox30-sercomm-shg3000/tree/master/drivers"
+    }
+  },
+  {
+    "name": "linux",
+    "path": "linux",
+    "sha": "eee9b2808c5705de3f392191b0da64f9bd327048",
+    "size": 108,
+    "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/linux?ref=master",
+    "html_url": "https://github.com/0Lukee/vox30-sercomm-shg3000/blob/master/linux",
+    "git_url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/eee9b2808c5705de3f392191b0da64f9bd327048",
+    "download_url": "https://raw.githubusercontent.com/0Lukee/vox30-sercomm-shg3000/master/linux",
+    "type": "symlink",
+    "_links": {
+      "self": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/linux?ref=master",
+      "git": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/eee9b2808c5705de3f392191b0da64f9bd327048",
+      "html": "https://github.com/0Lukee/vox30-sercomm-shg3000/blob/master/linux"
+    }
+  },
+  {
+    "name": "rootfs",
+    "path": "rootfs",
+    "sha": "98e1494af71ec2929078606fb890372a87ebb9c1",
+    "size": 0,
+    "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/rootfs?ref=master",
+    "html_url": "https://github.com/0Lukee/vox30-sercomm-shg3000/tree/master/rootfs",
+    "git_url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/98e1494af71ec2929078606fb890372a87ebb9c1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/rootfs?ref=master",
+      "git": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/98e1494af71ec2929078606fb890372a87ebb9c1",
+      "html": "https://github.com/0Lukee/vox30-sercomm-shg3000/tree/master/rootfs"
+    }
+  },
+  {
+    "name": "toolchain",
+    "path": "toolchain",
+    "sha": "b80ffed576e60f5fdbb38cfed96d971ddcd323f5",
+    "size": 0,
+    "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/toolchain?ref=master",
+    "html_url": "https://github.com/0Lukee/vox30-sercomm-shg3000/tree/master/toolchain",
+    "git_url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/b80ffed576e60f5fdbb38cfed96d971ddcd323f5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/toolchain?ref=master",
+      "git": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/b80ffed576e60f5fdbb38cfed96d971ddcd323f5",
+      "html": "https://github.com/0Lukee/vox30-sercomm-shg3000/tree/master/toolchain"
+    }
+  },
+  {
+    "name": "user",
+    "path": "user",
+    "sha": "6c620be0bc42868752f095df054c4412fa1af691",
+    "size": 0,
+    "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/user?ref=master",
+    "html_url": "https://github.com/0Lukee/vox30-sercomm-shg3000/tree/master/user",
+    "git_url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/6c620be0bc42868752f095df054c4412fa1af691",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/contents/user?ref=master",
+      "git": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/6c620be0bc42868752f095df054c4412fa1af691",
+      "html": "https://github.com/0Lukee/vox30-sercomm-shg3000/tree/master/user"
+    }
+  }
+]

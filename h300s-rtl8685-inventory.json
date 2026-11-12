@@ -1,0 +1,50 @@
+[
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "d6a93266f748d606b884f9434ff662fe80b9dc21",
+    "size": 18027,
+    "url": "https://api.github.com/repos/alexytomi/RTL8685/contents/LICENSE?ref=master",
+    "html_url": "https://github.com/alexytomi/RTL8685/blob/master/LICENSE",
+    "git_url": "https://api.github.com/repos/alexytomi/RTL8685/git/blobs/d6a93266f748d606b884f9434ff662fe80b9dc21",
+    "download_url": "https://raw.githubusercontent.com/alexytomi/RTL8685/master/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/alexytomi/RTL8685/contents/LICENSE?ref=master",
+      "git": "https://api.github.com/repos/alexytomi/RTL8685/git/blobs/d6a93266f748d606b884f9434ff662fe80b9dc21",
+      "html": "https://github.com/alexytomi/RTL8685/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "testing.txt",
+    "path": "testing.txt",
+    "sha": "82860bee80059048f502debe392ddc5ba0284d55",
+    "size": 10,
+    "url": "https://api.github.com/repos/alexytomi/RTL8685/contents/testing.txt?ref=master",
+    "html_url": "https://github.com/alexytomi/RTL8685/blob/master/testing.txt",
+    "git_url": "https://api.github.com/repos/alexytomi/RTL8685/git/blobs/82860bee80059048f502debe392ddc5ba0284d55",
+    "download_url": "https://raw.githubusercontent.com/alexytomi/RTL8685/master/testing.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/alexytomi/RTL8685/contents/testing.txt?ref=master",
+      "git": "https://api.github.com/repos/alexytomi/RTL8685/git/blobs/82860bee80059048f502debe392ddc5ba0284d55",
+      "html": "https://github.com/alexytomi/RTL8685/blob/master/testing.txt"
+    }
+  },
+  {
+    "name": "uClinux-dist",
+    "path": "uClinux-dist",
+    "sha": "d9a11187b61cd2d1ac481b5ab85a2b73329da2cf",
+    "size": 0,
+    "url": "https://api.github.com/repos/alexytomi/RTL8685/contents/uClinux-dist?ref=master",
+    "html_url": "https://github.com/alexytomi/RTL8685/tree/master/uClinux-dist",
+    "git_url": "https://api.github.com/repos/alexytomi/RTL8685/git/trees/d9a11187b61cd2d1ac481b5ab85a2b73329da2cf",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/alexytomi/RTL8685/contents/uClinux-dist?ref=master",
+      "git": "https://api.github.com/repos/alexytomi/RTL8685/git/trees/d9a11187b61cd2d1ac481b5ab85a2b73329da2cf",
+      "html": "https://github.com/alexytomi/RTL8685/tree/master/uClinux-dist"
+    }
+  }
+]

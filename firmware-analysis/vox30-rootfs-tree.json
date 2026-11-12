@@ -1,0 +1,3321 @@
+{
+  "sha": "f435bb7cd4873d6d7b1f84e54b4524c666ac5766",
+  "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/f435bb7cd4873d6d7b1f84e54b4524c666ac5766",
+  "tree": [
+    {
+      "path": "bin",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "50fae0cdc47ee368638ddd1a981a4f81b61930f3",
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/50fae0cdc47ee368638ddd1a981a4f81b61930f3"
+    },
+    {
+      "path": "bin/acs_cli",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d0933bcc6679885b2a212ca107b3220b16a754ed",
+      "size": 26884,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d0933bcc6679885b2a212ca107b3220b16a754ed"
+    },
+    {
+      "path": "bin/acsd",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "de79dd6ef6096051dfad8fc9d33b11e1db6dc435",
+      "size": 193000,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/de79dd6ef6096051dfad8fc9d33b11e1db6dc435"
+    },
+    {
+      "path": "bin/dhd",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "220379612a41f7a0c357ce0706c5e13ad8a04941",
+      "size": 6,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/220379612a41f7a0c357ce0706c5e13ad8a04941"
+    },
+    {
+      "path": "bin/dhdctl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0aa52cb8199894195c16ce8ca696731a70e94762",
+      "size": 108176,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0aa52cb8199894195c16ce8ca696731a70e94762"
+    },
+    {
+      "path": "bin/eapd",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "cdad276b85816286cc61015082c1c667ad08019d",
+      "size": 266868,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/cdad276b85816286cc61015082c1c667ad08019d"
+    },
+    {
+      "path": "bin/lld2d",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "802ca597ce43a139ae634c2fcd951bffa98ed5da",
+      "size": 186084,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/802ca597ce43a139ae634c2fcd951bffa98ed5da"
+    },
+    {
+      "path": "bin/nas",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0c0f9be589c5a502ba05c0dd2511ec5247463acc",
+      "size": 436544,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0c0f9be589c5a502ba05c0dd2511ec5247463acc"
+    },
+    {
+      "path": "bin/toad",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8a256cb2a90d382ab2a9ec6ea1d060b1111855d2",
+      "size": 16484,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/8a256cb2a90d382ab2a9ec6ea1d060b1111855d2"
+    },
+    {
+      "path": "bin/toad_2g",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "0da34a5e210879141c40d242765e095a0849e33e",
+      "size": 4,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0da34a5e210879141c40d242765e095a0849e33e"
+    },
+    {
+      "path": "bin/toad_5g",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "0da34a5e210879141c40d242765e095a0849e33e",
+      "size": 4,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0da34a5e210879141c40d242765e095a0849e33e"
+    },
+    {
+      "path": "bin/toast",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3ee10345f3f7b0e593e042acf0e8381551d0a8ed",
+      "size": 11516,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/3ee10345f3f7b0e593e042acf0e8381551d0a8ed"
+    },
+    {
+      "path": "bin/wl",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "a473b1faf391603385e59aa4acd8266c56242e6f",
+      "size": 10,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a473b1faf391603385e59aa4acd8266c56242e6f"
+    },
+    {
+      "path": "bin/wlctl",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e0b6b788d7c4ea646139baa1c12a7c07d4c03460",
+      "size": 3208,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/e0b6b788d7c4ea646139baa1c12a7c07d4c03460"
+    },
+    {
+      "path": "bin/wps_monitor",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "39a7e0a8e9d16d40cd5c47ed68a4900779365be5",
+      "size": 191504,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/39a7e0a8e9d16d40cd5c47ed68a4900779365be5"
+    },
+    {
+      "path": "etc",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c1caf8aa41092c64a5cb467bb032d97bdd904e1b",
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/c1caf8aa41092c64a5cb467bb032d97bdd904e1b"
+    },
+    {
+      "path": "etc/wlan",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9c7593139bae31cb44c9c5a9f1b472720b21a125",
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/9c7593139bae31cb44c9c5a9f1b472720b21a125"
+    },
+    {
+      "path": "etc/wlan/bcm43112_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e90b44cdff63b31408e31f7a7400521293d94c44",
+      "size": 440,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/e90b44cdff63b31408e31f7a7400521293d94c44"
+    },
+    {
+      "path": "etc/wlan/bcm43131_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4586f826cef969f70120fa39d5314b70a48cd3d0",
+      "size": 440,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/4586f826cef969f70120fa39d5314b70a48cd3d0"
+    },
+    {
+      "path": "etc/wlan/bcm4313_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7e039d94fb790d34da7fb5e7fa49c90d55569982",
+      "size": 440,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/7e039d94fb790d34da7fb5e7fa49c90d55569982"
+    },
+    {
+      "path": "etc/wlan/bcm43217_968380LTE_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "673258a4e9b646c57cb09d8da8fde7764cdaddd8",
+      "size": 440,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/673258a4e9b646c57cb09d8da8fde7764cdaddd8"
+    },
+    {
+      "path": "etc/wlan/bcm43217_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3b2d3f53d2bea291e371f6fd93f4c457602ca82a",
+      "size": 440,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/3b2d3f53d2bea291e371f6fd93f4c457602ca82a"
+    },
+    {
+      "path": "etc/wlan/bcm43222_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a3a1d63358ae00fc0a79e304c8f105ce185ee222",
+      "size": 440,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a3a1d63358ae00fc0a79e304c8f105ce185ee222"
+    },
+    {
+      "path": "etc/wlan/bcm43224_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9cd1a00132cd09743cb4b83a575f4995ddec6871",
+      "size": 440,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/9cd1a00132cd09743cb4b83a575f4995ddec6871"
+    },
+    {
+      "path": "etc/wlan/bcm43225_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "227e20962f2ab9c7cbd388541a6498dbcddd8942",
+      "size": 440,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/227e20962f2ab9c7cbd388541a6498dbcddd8942"
+    },
+    {
+      "path": "etc/wlan/bcm43226_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b754d3840b4f7816fe13b1625e85526d15822c22",
+      "size": 440,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/b754d3840b4f7816fe13b1625e85526d15822c22"
+    },
+    {
+      "path": "etc/wlan/bcm43227_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "785ce0ef5b19ecfe981824e17148607511b36597",
+      "size": 440,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/785ce0ef5b19ecfe981824e17148607511b36597"
+    },
+    {
+      "path": "etc/wlan/bcm43228_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0b1ca9b872322d94b74aa0fd323a7b6b54432451",
+      "size": 440,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0b1ca9b872322d94b74aa0fd323a7b6b54432451"
+    },
+    {
+      "path": "etc/wlan/bcm4322_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "917bdc78e1a44c535af477b33ad9ce55c92cd936",
+      "size": 440,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/917bdc78e1a44c535af477b33ad9ce55c92cd936"
+    },
+    {
+      "path": "etc/wlan/bcm4331_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "95919a43a9e215375636364f4132cbe47850525a",
+      "size": 440,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/95919a43a9e215375636364f4132cbe47850525a"
+    },
+    {
+      "path": "etc/wlan/bcm4331_vars.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5ce352327785a21a13e09a7c0ebebfb816f815d9",
+      "size": 2222,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/5ce352327785a21a13e09a7c0ebebfb816f815d9"
+    },
+    {
+      "path": "etc/wlan/bcm43428_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "de2619a9baa7acbc28f89ce92352984f11ec9f74",
+      "size": 440,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/de2619a9baa7acbc28f89ce92352984f11ec9f74"
+    },
+    {
+      "path": "etc/wlan/bcm43522_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "12138578b2adc91685f6adf39c955864b8a8d0f3",
+      "size": 468,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/12138578b2adc91685f6adf39c955864b8a8d0f3"
+    },
+    {
+      "path": "etc/wlan/bcm43522_nvramvars.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b2c812e37a7d89f75d1b950655cb3f46e5d2c0d6",
+      "size": 18,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/b2c812e37a7d89f75d1b950655cb3f46e5d2c0d6"
+    },
+    {
+      "path": "etc/wlan/bcm4352_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2d58d79b43615decc399a4d46bbd8f6cd3591193",
+      "size": 468,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/2d58d79b43615decc399a4d46bbd8f6cd3591193"
+    },
+    {
+      "path": "etc/wlan/bcm4352_nvramvars.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b2c812e37a7d89f75d1b950655cb3f46e5d2c0d6",
+      "size": 18,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/b2c812e37a7d89f75d1b950655cb3f46e5d2c0d6"
+    },
+    {
+      "path": "etc/wlan/bcm43602_968380LTE_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c31e112c852c712d71010314ee8686825ac8a0b8",
+      "size": 468,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c31e112c852c712d71010314ee8686825ac8a0b8"
+    },
+    {
+      "path": "etc/wlan/bcm43602_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "632ba0b165d4bb130bc245b358cda84921938d9e",
+      "size": 468,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/632ba0b165d4bb130bc245b358cda84921938d9e"
+    },
+    {
+      "path": "etc/wlan/bcm43602_nvramvars.bak.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b2c812e37a7d89f75d1b950655cb3f46e5d2c0d6",
+      "size": 18,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/b2c812e37a7d89f75d1b950655cb3f46e5d2c0d6"
+    },
+    {
+      "path": "etc/wlan/bcm43602_wl1_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "89ded292b2080a0ede29660d2b2a804a6444db28",
+      "size": 468,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/89ded292b2080a0ede29660d2b2a804a6444db28"
+    },
+    {
+      "path": "etc/wlan/bcm4360_963168AC5_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0f8b818c7f96d0ca59c66e803551327ffe3e0063",
+      "size": 468,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0f8b818c7f96d0ca59c66e803551327ffe3e0063"
+    },
+    {
+      "path": "etc/wlan/bcm4360_963168ACH5_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5a1605e16433dfb20a8d6b0af5cc0c8b2081533b",
+      "size": 468,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/5a1605e16433dfb20a8d6b0af5cc0c8b2081533b"
+    },
+    {
+      "path": "etc/wlan/bcm4360_968380LTE_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "989b050213d678b62592525bbbbc7a34b424462d",
+      "size": 468,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/989b050213d678b62592525bbbbc7a34b424462d"
+    },
+    {
+      "path": "etc/wlan/bcm4360_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d6a8263d15fff5966e38fae4dc49806355de897e",
+      "size": 468,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d6a8263d15fff5966e38fae4dc49806355de897e"
+    },
+    {
+      "path": "etc/wlan/bcm4360_nvramvars.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b2c812e37a7d89f75d1b950655cb3f46e5d2c0d6",
+      "size": 18,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/b2c812e37a7d89f75d1b950655cb3f46e5d2c0d6"
+    },
+    {
+      "path": "etc/wlan/bcm4360_wl1_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "22d574826e79288ec406badc7d4f96dd700226ec",
+      "size": 468,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/22d574826e79288ec406badc7d4f96dd700226ec"
+    },
+    {
+      "path": "etc/wlan/bcm4363_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f0d6d89c456c24a0fac42f1667123101f58a9cf5",
+      "size": 1180,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/f0d6d89c456c24a0fac42f1667123101f58a9cf5"
+    },
+    {
+      "path": "etc/wlan/bcm4363_nvramvars.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d8e6376cdb42769d878b708fd2e6f3813b3e8a06",
+      "size": 17,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d8e6376cdb42769d878b708fd2e6f3813b3e8a06"
+    },
+    {
+      "path": "etc/wlan/bcm4365_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "567ac168955f622918e19ec18cf6a35878ddcc42",
+      "size": 1180,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/567ac168955f622918e19ec18cf6a35878ddcc42"
+    },
+    {
+      "path": "etc/wlan/bcm4365_nvramvars.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d8e6376cdb42769d878b708fd2e6f3813b3e8a06",
+      "size": 17,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d8e6376cdb42769d878b708fd2e6f3813b3e8a06"
+    },
+    {
+      "path": "etc/wlan/bcm43664_63138RREF_GFAST_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "705be44c42b91da10587b2be276c8387d92110ab",
+      "size": 1180,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/705be44c42b91da10587b2be276c8387d92110ab"
+    },
+    {
+      "path": "etc/wlan/bcm43664_63138RREF_GFAST_wl1_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5843fc3513cac140e14803ceb02ad8357c435f23",
+      "size": 1180,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/5843fc3513cac140e14803ceb02ad8357c435f23"
+    },
+    {
+      "path": "etc/wlan/bcm43664_63138RREF_RNC_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "705be44c42b91da10587b2be276c8387d92110ab",
+      "size": 1180,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/705be44c42b91da10587b2be276c8387d92110ab"
+    },
+    {
+      "path": "etc/wlan/bcm43664_63138RREF_RNC_wl1_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5843fc3513cac140e14803ceb02ad8357c435f23",
+      "size": 1180,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/5843fc3513cac140e14803ceb02ad8357c435f23"
+    },
+    {
+      "path": "etc/wlan/bcm43664_963138REF_BGW_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "705be44c42b91da10587b2be276c8387d92110ab",
+      "size": 1180,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/705be44c42b91da10587b2be276c8387d92110ab"
+    },
+    {
+      "path": "etc/wlan/bcm43664_963138REF_BGW_wl1_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5843fc3513cac140e14803ceb02ad8357c435f23",
+      "size": 1180,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/5843fc3513cac140e14803ceb02ad8357c435f23"
+    },
+    {
+      "path": "etc/wlan/bcm43664_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "41a8f6bdf17429e0b919493f1237b7e8b40863a8",
+      "size": 1180,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/41a8f6bdf17429e0b919493f1237b7e8b40863a8"
+    },
+    {
+      "path": "etc/wlan/bcm43664_nvramvars.bak.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d8e6376cdb42769d878b708fd2e6f3813b3e8a06",
+      "size": 17,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d8e6376cdb42769d878b708fd2e6f3813b3e8a06"
+    },
+    {
+      "path": "etc/wlan/bcm43666_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d9241f9defa4dbc31eb65cceefc6f4b9cedca067",
+      "size": 1180,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d9241f9defa4dbc31eb65cceefc6f4b9cedca067"
+    },
+    {
+      "path": "etc/wlan/bcm43666_nvramvars.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d8e6376cdb42769d878b708fd2e6f3813b3e8a06",
+      "size": 17,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d8e6376cdb42769d878b708fd2e6f3813b3e8a06"
+    },
+    {
+      "path": "etc/wlan/bcm4366_963138REF_BGW_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "db8ff1aac8cc6d0f6127a29506164b09625dda66",
+      "size": 1180,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/db8ff1aac8cc6d0f6127a29506164b09625dda66"
+    },
+    {
+      "path": "etc/wlan/bcm4366_963138REF_BGW_wl1_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f2a72603872533611d46d578e26cd283e072968e",
+      "size": 1180,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/f2a72603872533611d46d578e26cd283e072968e"
+    },
+    {
+      "path": "etc/wlan/bcm4366_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "567ac168955f622918e19ec18cf6a35878ddcc42",
+      "size": 1180,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/567ac168955f622918e19ec18cf6a35878ddcc42"
+    },
+    {
+      "path": "etc/wlan/bcm4366_nvramvars.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d8e6376cdb42769d878b708fd2e6f3813b3e8a06",
+      "size": 17,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d8e6376cdb42769d878b708fd2e6f3813b3e8a06"
+    },
+    {
+      "path": "etc/wlan/bcm4366_wl1_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "567ac168955f622918e19ec18cf6a35878ddcc42",
+      "size": 1180,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/567ac168955f622918e19ec18cf6a35878ddcc42"
+    },
+    {
+      "path": "etc/wlan/bcm6362_map.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "etc/wlan/bcmcmn_nvramvars.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1f2761faf5923b4b432a29b44d46f282c60fe421",
+      "size": 19,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/1f2761faf5923b4b432a29b44d46f282c60fe421"
+    },
+    {
+      "path": "etc/wlan/dhd",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e7c7b7b4fbbeee65a752448b218c5171c0d75889",
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/e7c7b7b4fbbeee65a752448b218c5171c0d75889"
+    },
+    {
+      "path": "etc/wlan/dhd/43602a1",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8d4e3a8c564d643dd990b66f861b44fc9aecfd3c",
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/8d4e3a8c564d643dd990b66f861b44fc9aecfd3c"
+    },
+    {
+      "path": "etc/wlan/dhd/43602a1/rtecdc.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "451f8fc97a7dd8a4213bcddf3f82fa149960029f",
+      "size": 665703,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/451f8fc97a7dd8a4213bcddf3f82fa149960029f"
+    },
+    {
+      "path": "etc/wlan/dhd/43602a3",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f85d569dae841bd581def9463f6cc31cf1569304",
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/f85d569dae841bd581def9463f6cc31cf1569304"
+    },
+    {
+      "path": "etc/wlan/dhd/43602a3/rtecdc.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9a24fbc0ebb3913f21f5ae6eca9137dc6b6c4581",
+      "size": 427441,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/9a24fbc0ebb3913f21f5ae6eca9137dc6b6c4581"
+    },
+    {
+      "path": "etc/wlan/dhd/4366c0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0318867143801ca5f71ca73b8a70ecc7840c1293",
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/0318867143801ca5f71ca73b8a70ecc7840c1293"
+    },
+    {
+      "path": "etc/wlan/dhd/4366c0/rtecdc.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "18f06a2aedefbaaf9b07cab9a5797845fa6325e7",
+      "size": 1176738,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/18f06a2aedefbaaf9b07cab9a5797845fa6325e7"
+    },
+    {
+      "path": "etc/wlan/dhd/mfg",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4267c4a0101e7bb2f7e59335ddb05e863180b3fa",
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/4267c4a0101e7bb2f7e59335ddb05e863180b3fa"
+    },
+    {
+      "path": "etc/wlan/dhd/mfg/43602a1",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c4d4a7019d96685de159aa4dfa7bf0c9ecac7417",
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/c4d4a7019d96685de159aa4dfa7bf0c9ecac7417"
+    },
+    {
+      "path": "etc/wlan/dhd/mfg/43602a1/rtecdc.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "23b17ea980dc3b6e77e7cb995b2049e83eeebd5a",
+      "size": 716066,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/23b17ea980dc3b6e77e7cb995b2049e83eeebd5a"
+    },
+    {
+      "path": "etc/wlan/dhd/mfg/43602a3",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "dbadb5b843c61e51b5712cf236d5b78400be05cc",
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/dbadb5b843c61e51b5712cf236d5b78400be05cc"
+    },
+    {
+      "path": "etc/wlan/dhd/mfg/43602a3/rtecdc.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5e3aa89986caee792b601fb6bcf3182850e86b48",
+      "size": 502127,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/5e3aa89986caee792b601fb6bcf3182850e86b48"
+    },
+    {
+      "path": "etc/wlan/dhd/mfg/4366c0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "87520654a894e9b2b0ffd1cc56caf1812efe7efb",
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/87520654a894e9b2b0ffd1cc56caf1812efe7efb"
+    },
+    {
+      "path": "etc/wlan/dhd/mfg/4366c0/rtecdc.bin",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f462cc36e377dab5051457b7275e631c040e431a",
+      "size": 1195671,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/f462cc36e377dab5051457b7275e631c040e431a"
+    },
+    {
+      "path": "etc/wlan/dhd/nvram.txt",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7126d09b74a6df39a55354341434b769c73893c2",
+      "size": 1501,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/7126d09b74a6df39a55354341434b769c73893c2"
+    },
+    {
+      "path": "lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "23749eef4f3572e61907e7280aeda1d77636f457",
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/23749eef4f3572e61907e7280aeda1d77636f457"
+    },
+    {
+      "path": "lib/ANSI_X3.110.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6f19550560a19abee80cfcaf6397a22ecc65d26e",
+      "size": 20976,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/6f19550560a19abee80cfcaf6397a22ecc65d26e"
+    },
+    {
+      "path": "lib/ARMSCII-8.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "da7a11b6c5d22196a904faa0c84e7f254c4a2f34",
+      "size": 12556,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/da7a11b6c5d22196a904faa0c84e7f254c4a2f34"
+    },
+    {
+      "path": "lib/ASMO_449.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "838b5e792b9663093e1094e151666493d6704f1e",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/838b5e792b9663093e1094e151666493d6704f1e"
+    },
+    {
+      "path": "lib/BIG5.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "096b74e504ab63befbf3fe9047f05c2d8bd18a73",
+      "size": 90832,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/096b74e504ab63befbf3fe9047f05c2d8bd18a73"
+    },
+    {
+      "path": "lib/BIG5HKSCS.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f95253fbde900a4cc0a30550e830802caf8d5ff6",
+      "size": 237884,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/f95253fbde900a4cc0a30550e830802caf8d5ff6"
+    },
+    {
+      "path": "lib/BRF.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7532b7e284a6db5c11bfe2057d705a2c4c905661",
+      "size": 12556,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/7532b7e284a6db5c11bfe2057d705a2c4c905661"
+    },
+    {
+      "path": "lib/CP10007.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e4b0be340789c74e09898e6caa61e3c887dc048c",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/e4b0be340789c74e09898e6caa61e3c887dc048c"
+    },
+    {
+      "path": "lib/CP1125.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ef85827998c2e5ad8f06a0ed81fc2212ddbf04b6",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/ef85827998c2e5ad8f06a0ed81fc2212ddbf04b6"
+    },
+    {
+      "path": "lib/CP1250.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c75e17103780e1b6615eb5d13b368d6611073838",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c75e17103780e1b6615eb5d13b368d6611073838"
+    },
+    {
+      "path": "lib/CP1251.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5af304cacf49e094545345ab31cd8891335b5179",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/5af304cacf49e094545345ab31cd8891335b5179"
+    },
+    {
+      "path": "lib/CP1252.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "70867052018d668f321baaf320e3e9c064eaa442",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/70867052018d668f321baaf320e3e9c064eaa442"
+    },
+    {
+      "path": "lib/CP1253.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c4fd5ddddc05bb3d7999030f797abb39ca5906b8",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c4fd5ddddc05bb3d7999030f797abb39ca5906b8"
+    },
+    {
+      "path": "lib/CP1254.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b16b85d1ce549979af3c41c9837512fc8e1aa21e",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/b16b85d1ce549979af3c41c9837512fc8e1aa21e"
+    },
+    {
+      "path": "lib/CP1255.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9c8b8cb7eb14e2c7d7ed3164f085d189cf0ee12e",
+      "size": 16776,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/9c8b8cb7eb14e2c7d7ed3164f085d189cf0ee12e"
+    },
+    {
+      "path": "lib/CP1256.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "99eab00a10921afe9930bf6946deabc0818187e3",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/99eab00a10921afe9930bf6946deabc0818187e3"
+    },
+    {
+      "path": "lib/CP1257.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3c69bc91f7e4d9e1cf3c333945220c1b6b0563cd",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/3c69bc91f7e4d9e1cf3c333945220c1b6b0563cd"
+    },
+    {
+      "path": "lib/CP1258.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "800f8848ad01059b7be935192695d205ee58f397",
+      "size": 16744,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/800f8848ad01059b7be935192695d205ee58f397"
+    },
+    {
+      "path": "lib/CP737.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "86794a2685b8ab791e51635c82ea15ca0f7d25b4",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/86794a2685b8ab791e51635c82ea15ca0f7d25b4"
+    },
+    {
+      "path": "lib/CP770.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2ee869c32b899ff510270af1db9653f7f5c03946",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/2ee869c32b899ff510270af1db9653f7f5c03946"
+    },
+    {
+      "path": "lib/CP771.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a5a31881562ea3aab4f4004fad8b159a6f09b390",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a5a31881562ea3aab4f4004fad8b159a6f09b390"
+    },
+    {
+      "path": "lib/CP772.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d28123d0900b637a152d7cb0b7c401157cbab252",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d28123d0900b637a152d7cb0b7c401157cbab252"
+    },
+    {
+      "path": "lib/CP773.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "01fe5d0f591666642e89d121431cc0989f8e4bd0",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/01fe5d0f591666642e89d121431cc0989f8e4bd0"
+    },
+    {
+      "path": "lib/CP774.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "12a7873b851b8bc5c8cb451f8eef4340377572de",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/12a7873b851b8bc5c8cb451f8eef4340377572de"
+    },
+    {
+      "path": "lib/CP775.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8055b4f30a4d55370643a7bd7bbcbf1265dab85a",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/8055b4f30a4d55370643a7bd7bbcbf1265dab85a"
+    },
+    {
+      "path": "lib/CP932.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bfa6b2b6b3aa4aec2dc7e629fbfa0da7da3080d1",
+      "size": 98844,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/bfa6b2b6b3aa4aec2dc7e629fbfa0da7da3080d1"
+    },
+    {
+      "path": "lib/CSN_369103.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3c05d46c491b11ccf2413dcd9d8741f2056010c5",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/3c05d46c491b11ccf2413dcd9d8741f2056010c5"
+    },
+    {
+      "path": "lib/CWI.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2c71e2c54668d10c27494c96c2b4178c5d160acd",
+      "size": 12556,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/2c71e2c54668d10c27494c96c2b4178c5d160acd"
+    },
+    {
+      "path": "lib/DEC-MCS.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "35135518f3debed3c890891043df078115e43616",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/35135518f3debed3c890891043df078115e43616"
+    },
+    {
+      "path": "lib/EBCDIC-AT-DE-A.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a14229b7b5dbf33205cc08ba02a56cd3edd1ead7",
+      "size": 12544,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a14229b7b5dbf33205cc08ba02a56cd3edd1ead7"
+    },
+    {
+      "path": "lib/EBCDIC-AT-DE.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a4bb1cd78cafdbf60eea244447995b1519899f5f",
+      "size": 12540,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a4bb1cd78cafdbf60eea244447995b1519899f5f"
+    },
+    {
+      "path": "lib/EBCDIC-CA-FR.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "edb230c50c790d9261dfb8294b1490427149db7e",
+      "size": 12540,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/edb230c50c790d9261dfb8294b1490427149db7e"
+    },
+    {
+      "path": "lib/EBCDIC-DK-NO-A.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "67c5592f4aaf6d635cb4549a4fba1b7f0d132e6b",
+      "size": 12544,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/67c5592f4aaf6d635cb4549a4fba1b7f0d132e6b"
+    },
+    {
+      "path": "lib/EBCDIC-DK-NO.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1ac7f17c2ecbc41f50f733d11c31a282c8acce6b",
+      "size": 12540,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/1ac7f17c2ecbc41f50f733d11c31a282c8acce6b"
+    },
+    {
+      "path": "lib/EBCDIC-ES-A.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4a8a739814905de4a5fc7e194b191d55f2ec7ec7",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/4a8a739814905de4a5fc7e194b191d55f2ec7ec7"
+    },
+    {
+      "path": "lib/EBCDIC-ES-S.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8bca4852a3b88a99a2717fc9e3484972aafde02c",
+      "size": 12540,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/8bca4852a3b88a99a2717fc9e3484972aafde02c"
+    },
+    {
+      "path": "lib/EBCDIC-ES.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "05c1164e22f070237113406b30a117e968d401a9",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/05c1164e22f070237113406b30a117e968d401a9"
+    },
+    {
+      "path": "lib/EBCDIC-FI-SE-A.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "946acf3459d72a1d7a33f8a152d03a39747b94ff",
+      "size": 12544,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/946acf3459d72a1d7a33f8a152d03a39747b94ff"
+    },
+    {
+      "path": "lib/EBCDIC-FI-SE.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "46b8ea32c79caa157ed8b06cee41bc15add387ce",
+      "size": 12540,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/46b8ea32c79caa157ed8b06cee41bc15add387ce"
+    },
+    {
+      "path": "lib/EBCDIC-FR.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "44f677f5c0a7aa12871fce2017248ba18f51defc",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/44f677f5c0a7aa12871fce2017248ba18f51defc"
+    },
+    {
+      "path": "lib/EBCDIC-IS-FRISS.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0d9d2188ddf92b431ca5b3f563feaf90f573503b",
+      "size": 12568,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0d9d2188ddf92b431ca5b3f563feaf90f573503b"
+    },
+    {
+      "path": "lib/EBCDIC-IT.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9a82df0b1d14a0d9ca09e66f86f89101c7df52f7",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/9a82df0b1d14a0d9ca09e66f86f89101c7df52f7"
+    },
+    {
+      "path": "lib/EBCDIC-PT.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "59891add53b586a02bd2c4e94d199fccdb3bfffc",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/59891add53b586a02bd2c4e94d199fccdb3bfffc"
+    },
+    {
+      "path": "lib/EBCDIC-UK.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "32c4318d0238ba738b76d5c9393f2e9203daeb34",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/32c4318d0238ba738b76d5c9393f2e9203daeb34"
+    },
+    {
+      "path": "lib/EBCDIC-US.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c89e4b0185561e002de43f0e4225ea199b567da6",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c89e4b0185561e002de43f0e4225ea199b567da6"
+    },
+    {
+      "path": "lib/ECMA-CYRILLIC.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "964f4d5e32dd4c65179e570451c3e22f3790e6a3",
+      "size": 12568,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/964f4d5e32dd4c65179e570451c3e22f3790e6a3"
+    },
+    {
+      "path": "lib/EUC-CN.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1cbb270deb4ecca652ef5203e811bb7497473a1f",
+      "size": 21176,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/1cbb270deb4ecca652ef5203e811bb7497473a1f"
+    },
+    {
+      "path": "lib/EUC-JISX0213.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e5147756012a356c0a78368c13d9031d7d03cc95",
+      "size": 16920,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/e5147756012a356c0a78368c13d9031d7d03cc95"
+    },
+    {
+      "path": "lib/EUC-JP-MS.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fc02781cff31f4586b656d50e31ca6f3a1eea486",
+      "size": 86612,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/fc02781cff31f4586b656d50e31ca6f3a1eea486"
+    },
+    {
+      "path": "lib/EUC-JP.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bceb92101481150dd38825c72b9c0dcbf800dd47",
+      "size": 17052,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/bceb92101481150dd38825c72b9c0dcbf800dd47"
+    },
+    {
+      "path": "lib/EUC-KR.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "65e793fe08b57e4f82a7f18ad84e4d386a2d875b",
+      "size": 16808,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/65e793fe08b57e4f82a7f18ad84e4d386a2d875b"
+    },
+    {
+      "path": "lib/EUC-TW.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "84f740d3e7ff2de3889d43f49a5ca9505799b630",
+      "size": 25996,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/84f740d3e7ff2de3889d43f49a5ca9505799b630"
+    },
+    {
+      "path": "lib/GB18030.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "302414db372f72d512a92adfcfa99d13cd2118c6",
+      "size": 180608,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/302414db372f72d512a92adfcfa99d13cd2118c6"
+    },
+    {
+      "path": "lib/GBBIG5.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a524f5db1e1ff32fd191e84500ff833453f4b7c0",
+      "size": 57560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a524f5db1e1ff32fd191e84500ff833453f4b7c0"
+    },
+    {
+      "path": "lib/GBGBK.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "dab56e0a0bb5c41f036d39e97dc3e7c2be211700",
+      "size": 12448,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/dab56e0a0bb5c41f036d39e97dc3e7c2be211700"
+    },
+    {
+      "path": "lib/GBK.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "777512d7e44f635b110eafa7edefc95fecf242f0",
+      "size": 115364,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/777512d7e44f635b110eafa7edefc95fecf242f0"
+    },
+    {
+      "path": "lib/GEORGIAN-ACADEMY.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6edb817a3ffb6dd9ca7fbc73c808271e57c388b3",
+      "size": 12568,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/6edb817a3ffb6dd9ca7fbc73c808271e57c388b3"
+    },
+    {
+      "path": "lib/GEORGIAN-PS.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8dcfabb1f61233d46da1523a963c6e7aa7a0f79e",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/8dcfabb1f61233d46da1523a963c6e7aa7a0f79e"
+    },
+    {
+      "path": "lib/GOST_19768-74.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7ccef51a90b38f321c881d6b856769701606fd55",
+      "size": 12568,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/7ccef51a90b38f321c881d6b856769701606fd55"
+    },
+    {
+      "path": "lib/GREEK-CCITT.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d9a82def5b292df917f2ef12e8658b9ff869008d",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d9a82def5b292df917f2ef12e8658b9ff869008d"
+    },
+    {
+      "path": "lib/GREEK7-OLD.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a451d08470f1c579f4f1c3b8134570ed78b51490",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a451d08470f1c579f4f1c3b8134570ed78b51490"
+    },
+    {
+      "path": "lib/GREEK7.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6ead4d972d61cd028b2663ad7d51e58e808c0804",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/6ead4d972d61cd028b2663ad7d51e58e808c0804"
+    },
+    {
+      "path": "lib/HP-GREEK8.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5bbcaccd30bef6a9b8988475dabdb384990bb384",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/5bbcaccd30bef6a9b8988475dabdb384990bb384"
+    },
+    {
+      "path": "lib/HP-ROMAN8.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ec283247010c7e4e5d7023eceb1e10f122bc3940",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/ec283247010c7e4e5d7023eceb1e10f122bc3940"
+    },
+    {
+      "path": "lib/HP-ROMAN9.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1fdb8f5cb1b71b9aa0be78c6a3123d7710d5226d",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/1fdb8f5cb1b71b9aa0be78c6a3123d7710d5226d"
+    },
+    {
+      "path": "lib/HP-THAI8.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a44bfab943930d08d39a5ac3770ef69ee6de0f15",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a44bfab943930d08d39a5ac3770ef69ee6de0f15"
+    },
+    {
+      "path": "lib/HP-TURKISH8.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ec6ede5a7a026fa9570229651d5cb8b5d50c18af",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/ec6ede5a7a026fa9570229651d5cb8b5d50c18af"
+    },
+    {
+      "path": "lib/IBM037.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ef32ea393bd5a180b2b1fbc484521208d1960999",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/ef32ea393bd5a180b2b1fbc484521208d1960999"
+    },
+    {
+      "path": "lib/IBM038.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "03a55bf0032b2d093ab9bcfc091ba13c53c629b8",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/03a55bf0032b2d093ab9bcfc091ba13c53c629b8"
+    },
+    {
+      "path": "lib/IBM1004.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "488c657dd082bb5ba3b07e5559ee9ceaa1267710",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/488c657dd082bb5ba3b07e5559ee9ceaa1267710"
+    },
+    {
+      "path": "lib/IBM1008.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b6f2e1f42892cbecddc4e1a8800856dee6716390",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/b6f2e1f42892cbecddc4e1a8800856dee6716390"
+    },
+    {
+      "path": "lib/IBM1008_420.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "87f11938ea4fd29df7f6a680c56a6e242838bb95",
+      "size": 8316,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/87f11938ea4fd29df7f6a680c56a6e242838bb95"
+    },
+    {
+      "path": "lib/IBM1025.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c0fbb6debf1f126ad0bf2dac28e219a4be86a7ec",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c0fbb6debf1f126ad0bf2dac28e219a4be86a7ec"
+    },
+    {
+      "path": "lib/IBM1026.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "998bfa7c8f92435ff2a9731d3edeaa6bcd52d24b",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/998bfa7c8f92435ff2a9731d3edeaa6bcd52d24b"
+    },
+    {
+      "path": "lib/IBM1046.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d221d475c144569c0f200fb621af651fbfdc103a",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d221d475c144569c0f200fb621af651fbfdc103a"
+    },
+    {
+      "path": "lib/IBM1047.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0477698bb4c7e87f4c0a4e23405bb6a8f41148d0",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0477698bb4c7e87f4c0a4e23405bb6a8f41148d0"
+    },
+    {
+      "path": "lib/IBM1097.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "dc7b0d18372cd62f2fe06dccf92f75393dc3a979",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/dc7b0d18372cd62f2fe06dccf92f75393dc3a979"
+    },
+    {
+      "path": "lib/IBM1112.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e8f4457d1f2f3dd2bcd54fd8bf59a6a3627109fe",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/e8f4457d1f2f3dd2bcd54fd8bf59a6a3627109fe"
+    },
+    {
+      "path": "lib/IBM1122.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "16dc3e307e438969c9980897c9ee29c4594ca95f",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/16dc3e307e438969c9980897c9ee29c4594ca95f"
+    },
+    {
+      "path": "lib/IBM1123.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "31c795a236337088e2da00f412261123de9ff2a6",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/31c795a236337088e2da00f412261123de9ff2a6"
+    },
+    {
+      "path": "lib/IBM1124.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "188a524bf94d009292ce013706ede69a7bde132a",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/188a524bf94d009292ce013706ede69a7bde132a"
+    },
+    {
+      "path": "lib/IBM1129.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5eaebb63406bf25c87e766e58846773d585b567e",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/5eaebb63406bf25c87e766e58846773d585b567e"
+    },
+    {
+      "path": "lib/IBM1130.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fe7409938640de940fbdee50943d51f32f4344f1",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/fe7409938640de940fbdee50943d51f32f4344f1"
+    },
+    {
+      "path": "lib/IBM1132.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "64ac6d12b50b34eb86b7ded16a823286b6765b24",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/64ac6d12b50b34eb86b7ded16a823286b6765b24"
+    },
+    {
+      "path": "lib/IBM1133.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "154e0f3af322202c84d03e5320c2bd00ddeb5c9b",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/154e0f3af322202c84d03e5320c2bd00ddeb5c9b"
+    },
+    {
+      "path": "lib/IBM1137.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "803e0068994f810479d68e92b929ea585cc232d8",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/803e0068994f810479d68e92b929ea585cc232d8"
+    },
+    {
+      "path": "lib/IBM1140.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e0190d7b9030731089cde03202e9c25b158613e3",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/e0190d7b9030731089cde03202e9c25b158613e3"
+    },
+    {
+      "path": "lib/IBM1141.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3a9470651a0866e768207792510b3cae6936ffdd",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/3a9470651a0866e768207792510b3cae6936ffdd"
+    },
+    {
+      "path": "lib/IBM1142.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a2bae977fcdf916b1dbd7ee89a89577fcb2463ad",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a2bae977fcdf916b1dbd7ee89a89577fcb2463ad"
+    },
+    {
+      "path": "lib/IBM1143.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "985b0ff78a85ce29043f27d4e775d68d0136e9d3",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/985b0ff78a85ce29043f27d4e775d68d0136e9d3"
+    },
+    {
+      "path": "lib/IBM1144.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b2f1750e2d8a6b9660baf3514b772eea8ce5797b",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/b2f1750e2d8a6b9660baf3514b772eea8ce5797b"
+    },
+    {
+      "path": "lib/IBM1145.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2d4d8c334fb52a7ea438f28fb101ef7c2c952c79",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/2d4d8c334fb52a7ea438f28fb101ef7c2c952c79"
+    },
+    {
+      "path": "lib/IBM1146.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7a2c0e15039c873dfbcaa3c3d56ecb5f3a5d9daa",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/7a2c0e15039c873dfbcaa3c3d56ecb5f3a5d9daa"
+    },
+    {
+      "path": "lib/IBM1147.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "950f891e7adabcf718ea5375b7a8d4e23d488064",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/950f891e7adabcf718ea5375b7a8d4e23d488064"
+    },
+    {
+      "path": "lib/IBM1148.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f0711974e7628dbe60f3c20356defcd4c413e93e",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/f0711974e7628dbe60f3c20356defcd4c413e93e"
+    },
+    {
+      "path": "lib/IBM1149.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "95d8a588c4ad2df86e34daf9abc70179ef23de29",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/95d8a588c4ad2df86e34daf9abc70179ef23de29"
+    },
+    {
+      "path": "lib/IBM1153.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5faf1b755803273573bc15135489306ccfd3a0c7",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/5faf1b755803273573bc15135489306ccfd3a0c7"
+    },
+    {
+      "path": "lib/IBM1154.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2559e6a28ccb4099ebce97d4fc021795d2ee576e",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/2559e6a28ccb4099ebce97d4fc021795d2ee576e"
+    },
+    {
+      "path": "lib/IBM1155.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2930436a87d86ad4325301be8168ea9b95e44abf",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/2930436a87d86ad4325301be8168ea9b95e44abf"
+    },
+    {
+      "path": "lib/IBM1156.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "14c45f88d74c61408310e06ee274037fef0206cf",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/14c45f88d74c61408310e06ee274037fef0206cf"
+    },
+    {
+      "path": "lib/IBM1157.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7474fbcc930aee7d14407db09f1dd45ad7aa9e02",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/7474fbcc930aee7d14407db09f1dd45ad7aa9e02"
+    },
+    {
+      "path": "lib/IBM1158.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "16e847bc598326e6e4db34e95ea69364da34e5b7",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/16e847bc598326e6e4db34e95ea69364da34e5b7"
+    },
+    {
+      "path": "lib/IBM1160.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "72a932c60e69d730e578402cc0c870e5055f854c",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/72a932c60e69d730e578402cc0c870e5055f854c"
+    },
+    {
+      "path": "lib/IBM1161.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "54c3540a5488de797f9c2a15185984ad1cefc7db",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/54c3540a5488de797f9c2a15185984ad1cefc7db"
+    },
+    {
+      "path": "lib/IBM1162.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7e8a0e9fbdb3ab484518025f3ac0581542195d9f",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/7e8a0e9fbdb3ab484518025f3ac0581542195d9f"
+    },
+    {
+      "path": "lib/IBM1163.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "65a9aba4ba5c918d903ad04e04f7dab8158885e4",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/65a9aba4ba5c918d903ad04e04f7dab8158885e4"
+    },
+    {
+      "path": "lib/IBM1164.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c313f1c9b31dd30b5e36c9089e381883d6aa593b",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c313f1c9b31dd30b5e36c9089e381883d6aa593b"
+    },
+    {
+      "path": "lib/IBM1166.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9f9e5f831a2baaabc454a5faa7cd41b76af9f1fc",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/9f9e5f831a2baaabc454a5faa7cd41b76af9f1fc"
+    },
+    {
+      "path": "lib/IBM1167.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "46ed87f913fb993e29dda8cd72c40d1f8b2c5e02",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/46ed87f913fb993e29dda8cd72c40d1f8b2c5e02"
+    },
+    {
+      "path": "lib/IBM12712.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d3811d0a7bd129da5dfa263dba6edc82ccfb7d80",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d3811d0a7bd129da5dfa263dba6edc82ccfb7d80"
+    },
+    {
+      "path": "lib/IBM1364.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "013ada0076029756e43c61b24489d47b97da62a5",
+      "size": 151996,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/013ada0076029756e43c61b24489d47b97da62a5"
+    },
+    {
+      "path": "lib/IBM1371.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6ab218d37829a906d62ff15797e4e81f233dcb01",
+      "size": 131516,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/6ab218d37829a906d62ff15797e4e81f233dcb01"
+    },
+    {
+      "path": "lib/IBM1388.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "da5b8fa798e6b5aa471e9fcf93c0648191462c95",
+      "size": 176572,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/da5b8fa798e6b5aa471e9fcf93c0648191462c95"
+    },
+    {
+      "path": "lib/IBM1390.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "92751a8f3c3116aa90fcd1a49e9e6bb9ca69536f",
+      "size": 234008,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/92751a8f3c3116aa90fcd1a49e9e6bb9ca69536f"
+    },
+    {
+      "path": "lib/IBM1399.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "cc8282258c36b39dacc1b9b63595c11337bb73c9",
+      "size": 234008,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/cc8282258c36b39dacc1b9b63595c11337bb73c9"
+    },
+    {
+      "path": "lib/IBM16804.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "336deea173c9bf5043f55d4c981c8e8315704752",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/336deea173c9bf5043f55d4c981c8e8315704752"
+    },
+    {
+      "path": "lib/IBM256.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a337722b9661dcf005783f8f58a412d6deee33b8",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a337722b9661dcf005783f8f58a412d6deee33b8"
+    },
+    {
+      "path": "lib/IBM273.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a08729c87e7c025172a0add911048f7337e7d441",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a08729c87e7c025172a0add911048f7337e7d441"
+    },
+    {
+      "path": "lib/IBM274.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "49b33519f97bf87764995833b5837c9c5dcf0b86",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/49b33519f97bf87764995833b5837c9c5dcf0b86"
+    },
+    {
+      "path": "lib/IBM275.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "78835f59ea259534d151cae528b6d4025ade7380",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/78835f59ea259534d151cae528b6d4025ade7380"
+    },
+    {
+      "path": "lib/IBM277.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "15627aae3b8bd74dce956e409d0a00011be54885",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/15627aae3b8bd74dce956e409d0a00011be54885"
+    },
+    {
+      "path": "lib/IBM278.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d12f67959919ecc132960ed9625e68401213c162",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d12f67959919ecc132960ed9625e68401213c162"
+    },
+    {
+      "path": "lib/IBM280.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ac4a284753ff69968a467e10877ad7a7ade178e5",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/ac4a284753ff69968a467e10877ad7a7ade178e5"
+    },
+    {
+      "path": "lib/IBM281.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bfc655fbc840b4fb54e6307a6ceec5fd0ff7125d",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/bfc655fbc840b4fb54e6307a6ceec5fd0ff7125d"
+    },
+    {
+      "path": "lib/IBM284.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b99382ebfeca379f7bb52cfdca100709fbb5a122",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/b99382ebfeca379f7bb52cfdca100709fbb5a122"
+    },
+    {
+      "path": "lib/IBM285.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c01a93d8bf7003ed3ce54dbbee824dad4249b763",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c01a93d8bf7003ed3ce54dbbee824dad4249b763"
+    },
+    {
+      "path": "lib/IBM290.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "05a38315a03c0f54b67879d35a2ad5c067d79439",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/05a38315a03c0f54b67879d35a2ad5c067d79439"
+    },
+    {
+      "path": "lib/IBM297.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "aa89a1acdf7ee8a93f052d07f40a1c6b046b6d94",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/aa89a1acdf7ee8a93f052d07f40a1c6b046b6d94"
+    },
+    {
+      "path": "lib/IBM420.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d7c88d3c12b5a4cca64e0db7dbb1843bd3b1d2ce",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d7c88d3c12b5a4cca64e0db7dbb1843bd3b1d2ce"
+    },
+    {
+      "path": "lib/IBM423.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4b2ad71434192630abe5a06fa457cab16deed13f",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/4b2ad71434192630abe5a06fa457cab16deed13f"
+    },
+    {
+      "path": "lib/IBM424.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d68c6f3eb3ab997b62e9d325929ee2ceb1400d9c",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d68c6f3eb3ab997b62e9d325929ee2ceb1400d9c"
+    },
+    {
+      "path": "lib/IBM437.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d817fda1963f2984bf14f2b03013fd75370906b0",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d817fda1963f2984bf14f2b03013fd75370906b0"
+    },
+    {
+      "path": "lib/IBM4517.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "32abcff747d65223d539fb7ede2b803d6fa6912e",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/32abcff747d65223d539fb7ede2b803d6fa6912e"
+    },
+    {
+      "path": "lib/IBM4899.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7ae6af7232a0634c929dc08aafb7ba5c766502e0",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/7ae6af7232a0634c929dc08aafb7ba5c766502e0"
+    },
+    {
+      "path": "lib/IBM4909.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0a4ac6c9bdcbfc420e874fce6aa70fd37d27239c",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0a4ac6c9bdcbfc420e874fce6aa70fd37d27239c"
+    },
+    {
+      "path": "lib/IBM4971.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ece48eb31318970f361e4f82f6ccbc4958db71fe",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/ece48eb31318970f361e4f82f6ccbc4958db71fe"
+    },
+    {
+      "path": "lib/IBM500.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7d996c1cfe441310161da69bc5c90ca7712bcba7",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/7d996c1cfe441310161da69bc5c90ca7712bcba7"
+    },
+    {
+      "path": "lib/IBM5347.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d8de315c1681453e16592a8ac0d736513024f59a",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d8de315c1681453e16592a8ac0d736513024f59a"
+    },
+    {
+      "path": "lib/IBM803.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3916419ae6634be64e795de258ceefb9d344593f",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/3916419ae6634be64e795de258ceefb9d344593f"
+    },
+    {
+      "path": "lib/IBM850.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "13fd30dcdf5d3a7ebe2f46b897e2ff20f2b97317",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/13fd30dcdf5d3a7ebe2f46b897e2ff20f2b97317"
+    },
+    {
+      "path": "lib/IBM851.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "892a724a9bc72305a189fd807677de721405f43a",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/892a724a9bc72305a189fd807677de721405f43a"
+    },
+    {
+      "path": "lib/IBM852.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4cf5b81a4769d324eef1732fde9a35a20996ed98",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/4cf5b81a4769d324eef1732fde9a35a20996ed98"
+    },
+    {
+      "path": "lib/IBM855.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "450c6c1623922ed5aece199fd431d63e5ef5b67a",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/450c6c1623922ed5aece199fd431d63e5ef5b67a"
+    },
+    {
+      "path": "lib/IBM856.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0b3c52f0a7b76667b296b574907123c6ee059984",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0b3c52f0a7b76667b296b574907123c6ee059984"
+    },
+    {
+      "path": "lib/IBM857.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c604de099dc509ae68404c0c73ff2bdc3d670a4a",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c604de099dc509ae68404c0c73ff2bdc3d670a4a"
+    },
+    {
+      "path": "lib/IBM860.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "63394f48a2f020241f63d06a0917082b95ac070d",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/63394f48a2f020241f63d06a0917082b95ac070d"
+    },
+    {
+      "path": "lib/IBM861.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c5a34003cb81be08b45d37afa1db1dc7e3789fb8",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c5a34003cb81be08b45d37afa1db1dc7e3789fb8"
+    },
+    {
+      "path": "lib/IBM862.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0ffc7871cbcbf6313fbe77a7958b97ac3b946baa",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0ffc7871cbcbf6313fbe77a7958b97ac3b946baa"
+    },
+    {
+      "path": "lib/IBM863.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "351b1e0562a1d5adde6ca5cc48f371b752e24738",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/351b1e0562a1d5adde6ca5cc48f371b752e24738"
+    },
+    {
+      "path": "lib/IBM864.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c5ed5a5f426bf63f2743e270a433434a24dfed51",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c5ed5a5f426bf63f2743e270a433434a24dfed51"
+    },
+    {
+      "path": "lib/IBM865.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5b7e11f2ee84b3bad7c06f42ac1ca408a3471a04",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/5b7e11f2ee84b3bad7c06f42ac1ca408a3471a04"
+    },
+    {
+      "path": "lib/IBM866.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a25088dc7812db1a9ddb4f8dfa978ea18e484f5b",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a25088dc7812db1a9ddb4f8dfa978ea18e484f5b"
+    },
+    {
+      "path": "lib/IBM866NAV.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a25257dd55404c9afaf47da9f91a1138b6209fa9",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a25257dd55404c9afaf47da9f91a1138b6209fa9"
+    },
+    {
+      "path": "lib/IBM868.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4b1e65f5aa923ec958d7e89cd149f78ef16d0b0c",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/4b1e65f5aa923ec958d7e89cd149f78ef16d0b0c"
+    },
+    {
+      "path": "lib/IBM869.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "51534b714d12e39e41e7812eedee086605b61621",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/51534b714d12e39e41e7812eedee086605b61621"
+    },
+    {
+      "path": "lib/IBM870.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1e28656541946d322155b54ddf2a5ba387c79aab",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/1e28656541946d322155b54ddf2a5ba387c79aab"
+    },
+    {
+      "path": "lib/IBM871.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "aef2d9f23178b5fa5af59a70de87e6fece9513c6",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/aef2d9f23178b5fa5af59a70de87e6fece9513c6"
+    },
+    {
+      "path": "lib/IBM874.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2208b899ff6e4bfa73dc9185fe7147261d20ff90",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/2208b899ff6e4bfa73dc9185fe7147261d20ff90"
+    },
+    {
+      "path": "lib/IBM875.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5b2b8b220f7df8dd75515e97d00ef4f2ca11f7ef",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/5b2b8b220f7df8dd75515e97d00ef4f2ca11f7ef"
+    },
+    {
+      "path": "lib/IBM880.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "632980b3c4f76a9bb196d1a30148970878ef9999",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/632980b3c4f76a9bb196d1a30148970878ef9999"
+    },
+    {
+      "path": "lib/IBM891.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e24ee20cf4494e5cbb5a70b6fcfe7191bdcfbd6f",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/e24ee20cf4494e5cbb5a70b6fcfe7191bdcfbd6f"
+    },
+    {
+      "path": "lib/IBM901.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8db5440d951a418ecc5bc794d6d9e1c602873e50",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/8db5440d951a418ecc5bc794d6d9e1c602873e50"
+    },
+    {
+      "path": "lib/IBM902.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "73bbfaeb6f2605ff2a85cec34d69e75b5f9dd3c3",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/73bbfaeb6f2605ff2a85cec34d69e75b5f9dd3c3"
+    },
+    {
+      "path": "lib/IBM903.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bd6f2212a63aa1f6c7f1bff0ac4ae6d28b2efee2",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/bd6f2212a63aa1f6c7f1bff0ac4ae6d28b2efee2"
+    },
+    {
+      "path": "lib/IBM9030.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6c8dc2dafe941b13f06ff0f64d91f7731ead20b2",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/6c8dc2dafe941b13f06ff0f64d91f7731ead20b2"
+    },
+    {
+      "path": "lib/IBM904.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ed5742a63f5d3d3acd463b6e74dc9682c13d0fa2",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/ed5742a63f5d3d3acd463b6e74dc9682c13d0fa2"
+    },
+    {
+      "path": "lib/IBM905.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6b308a9b0b763130fe92d2e16f93bf41df1e8ba2",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/6b308a9b0b763130fe92d2e16f93bf41df1e8ba2"
+    },
+    {
+      "path": "lib/IBM9066.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "488c77706ce840a9675c445ce6f7b65a9d394aa9",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/488c77706ce840a9675c445ce6f7b65a9d394aa9"
+    },
+    {
+      "path": "lib/IBM918.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5986e6ec41f5d82c9aafc5dc9c92451237524c98",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/5986e6ec41f5d82c9aafc5dc9c92451237524c98"
+    },
+    {
+      "path": "lib/IBM921.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f8b2529725db205d576dc473af8d0f7829e32be5",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/f8b2529725db205d576dc473af8d0f7829e32be5"
+    },
+    {
+      "path": "lib/IBM922.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "92b3e7a8142c068efec7c1af91566c4b3783a307",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/92b3e7a8142c068efec7c1af91566c4b3783a307"
+    },
+    {
+      "path": "lib/IBM930.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a4c527a7560943ae575bf8d4da91ab172d7dfde9",
+      "size": 102980,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a4c527a7560943ae575bf8d4da91ab172d7dfde9"
+    },
+    {
+      "path": "lib/IBM932.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bbb4f69c7200207e2d5a9d629d25ba8d8fc24e07",
+      "size": 70104,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/bbb4f69c7200207e2d5a9d629d25ba8d8fc24e07"
+    },
+    {
+      "path": "lib/IBM933.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "50decb5856734b6075a477faa2d73ab169871be0",
+      "size": 123460,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/50decb5856734b6075a477faa2d73ab169871be0"
+    },
+    {
+      "path": "lib/IBM935.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b5c5856863081400af3f516169d396b8f8ee5220",
+      "size": 86596,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/b5c5856863081400af3f516169d396b8f8ee5220"
+    },
+    {
+      "path": "lib/IBM937.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1fe99bd61c9686d55a726d24b02762f5b7f5d00a",
+      "size": 115180,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/1fe99bd61c9686d55a726d24b02762f5b7f5d00a"
+    },
+    {
+      "path": "lib/IBM939.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "49f8d94d676b482912d862c17b0f02e0650a221d",
+      "size": 102980,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/49f8d94d676b482912d862c17b0f02e0650a221d"
+    },
+    {
+      "path": "lib/IBM943.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f6e8057d6bbf9fbf95a11df25755d86d1abe44f0",
+      "size": 74200,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/f6e8057d6bbf9fbf95a11df25755d86d1abe44f0"
+    },
+    {
+      "path": "lib/IBM9448.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9b25034eba7dd28ea9e281048029fe353b7aebf2",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/9b25034eba7dd28ea9e281048029fe353b7aebf2"
+    },
+    {
+      "path": "lib/IEC_P27-1.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0e3a6dfe0513415de2050edfb2deffee88835475",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0e3a6dfe0513415de2050edfb2deffee88835475"
+    },
+    {
+      "path": "lib/INIS-8.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a0e319ad016e2ab28b133c56a866d5f4f03e9559",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a0e319ad016e2ab28b133c56a866d5f4f03e9559"
+    },
+    {
+      "path": "lib/INIS-CYRILLIC.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2a6b109931185785c619250cd4f0e97468767496",
+      "size": 12568,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/2a6b109931185785c619250cd4f0e97468767496"
+    },
+    {
+      "path": "lib/INIS.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5f0c1bc200508b3e104b90268a2af1d0b9161df0",
+      "size": 12556,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/5f0c1bc200508b3e104b90268a2af1d0b9161df0"
+    },
+    {
+      "path": "lib/ISIRI-3342.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2d4b55be068f66c431db9388622b25cb09f16dca",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/2d4b55be068f66c431db9388622b25cb09f16dca"
+    },
+    {
+      "path": "lib/ISO-2022-CN-EXT.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c2858ba1cc222085135dee38ac0b70c22da0f90b",
+      "size": 47200,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c2858ba1cc222085135dee38ac0b70c22da0f90b"
+    },
+    {
+      "path": "lib/ISO-2022-CN.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3654c68249bcf6f55ed073147faa4a2623736e88",
+      "size": 38484,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/3654c68249bcf6f55ed073147faa4a2623736e88"
+    },
+    {
+      "path": "lib/ISO-2022-JP-3.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2f3065aaed2dc8b1597a7e2dbf4ea08b64b37ef1",
+      "size": 25388,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/2f3065aaed2dc8b1597a7e2dbf4ea08b64b37ef1"
+    },
+    {
+      "path": "lib/ISO-2022-JP.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "723c68949f1043666d8efda4bbc265562671de09",
+      "size": 44316,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/723c68949f1043666d8efda4bbc265562671de09"
+    },
+    {
+      "path": "lib/ISO-2022-KR.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a1411fa6e20f9498421af4f654d6a8c6d257fbfd",
+      "size": 16824,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a1411fa6e20f9498421af4f654d6a8c6d257fbfd"
+    },
+    {
+      "path": "lib/ISO-IR-197.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fa7e1370081c936cb8d93ad218a0e0f1151c5758",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/fa7e1370081c936cb8d93ad218a0e0f1151c5758"
+    },
+    {
+      "path": "lib/ISO-IR-209.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b245fb0d963663e9f90a217e76b629020b2433f8",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/b245fb0d963663e9f90a217e76b629020b2433f8"
+    },
+    {
+      "path": "lib/ISO646.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e89838e201ee9f49a833a373e6b23fcf6f5ef19b",
+      "size": 16752,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/e89838e201ee9f49a833a373e6b23fcf6f5ef19b"
+    },
+    {
+      "path": "lib/ISO8859-1.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f5ed9f252830ec40c82b6c5b6af28467848fa6f6",
+      "size": 12440,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/f5ed9f252830ec40c82b6c5b6af28467848fa6f6"
+    },
+    {
+      "path": "lib/ISO8859-10.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "cb6c60977cee47d6760132de6e7e47c0e2b61414",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/cb6c60977cee47d6760132de6e7e47c0e2b61414"
+    },
+    {
+      "path": "lib/ISO8859-11.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a21cc32f2ae7b18f03c48e0f2dedb71a497622e2",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a21cc32f2ae7b18f03c48e0f2dedb71a497622e2"
+    },
+    {
+      "path": "lib/ISO8859-13.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "944dd138c57fb299eec6caddc4153b208e69bdee",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/944dd138c57fb299eec6caddc4153b208e69bdee"
+    },
+    {
+      "path": "lib/ISO8859-14.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "59e5cede9d539f97bbcd1b876011da0691bcd009",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/59e5cede9d539f97bbcd1b876011da0691bcd009"
+    },
+    {
+      "path": "lib/ISO8859-15.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c4ee497db40013c2949da43bc40eedac6c722078",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c4ee497db40013c2949da43bc40eedac6c722078"
+    },
+    {
+      "path": "lib/ISO8859-16.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "447d8d56be9a2da413674dfb05b0a151327054c4",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/447d8d56be9a2da413674dfb05b0a151327054c4"
+    },
+    {
+      "path": "lib/ISO8859-2.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f3061d1f92668041ba0a5d3d6c360e9c3a5a9567",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/f3061d1f92668041ba0a5d3d6c360e9c3a5a9567"
+    },
+    {
+      "path": "lib/ISO8859-3.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8b67f56d9e6ccee6a40e0b9b891e03a69c2c9942",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/8b67f56d9e6ccee6a40e0b9b891e03a69c2c9942"
+    },
+    {
+      "path": "lib/ISO8859-4.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c52f439f8dcbc5e7090dc4368acbcda522b62f71",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c52f439f8dcbc5e7090dc4368acbcda522b62f71"
+    },
+    {
+      "path": "lib/ISO8859-5.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6c4f132d426e26b62d3c786db61bb7274ec50500",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/6c4f132d426e26b62d3c786db61bb7274ec50500"
+    },
+    {
+      "path": "lib/ISO8859-6.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6ab4b430d5d06575cb5e848ef80512562247915d",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/6ab4b430d5d06575cb5e848ef80512562247915d"
+    },
+    {
+      "path": "lib/ISO8859-7.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a7772b39727e9065123af17ea9ab0fd5867f66ec",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a7772b39727e9065123af17ea9ab0fd5867f66ec"
+    },
+    {
+      "path": "lib/ISO8859-8.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d4022803213441ffefbdd24538db2e63a9eb32a6",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d4022803213441ffefbdd24538db2e63a9eb32a6"
+    },
+    {
+      "path": "lib/ISO8859-9.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4769423bf69d9eca051eb84c58f29f3e623164c6",
+      "size": 12536,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/4769423bf69d9eca051eb84c58f29f3e623164c6"
+    },
+    {
+      "path": "lib/ISO8859-9E.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a6750952c51e5321ecfdcf9fdba861c0069a52bd",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a6750952c51e5321ecfdcf9fdba861c0069a52bd"
+    },
+    {
+      "path": "lib/ISO_10367-BOX.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4cce5109a1a70b5b19089b809cab59a23c65dabb",
+      "size": 12568,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/4cce5109a1a70b5b19089b809cab59a23c65dabb"
+    },
+    {
+      "path": "lib/ISO_11548-1.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "22bd53ba8c74e3e4aef587d3b9e9a9d70a7541e8",
+      "size": 12440,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/22bd53ba8c74e3e4aef587d3b9e9a9d70a7541e8"
+    },
+    {
+      "path": "lib/ISO_2033.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c45e1c9c308be2b788fcd5c7b4fcf7b3744adc4a",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c45e1c9c308be2b788fcd5c7b4fcf7b3744adc4a"
+    },
+    {
+      "path": "lib/ISO_5427-EXT.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f31a93154cdcfa8dd1c48de679a4b61e97cf491e",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/f31a93154cdcfa8dd1c48de679a4b61e97cf491e"
+    },
+    {
+      "path": "lib/ISO_5427.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ebe28d49410510ee1721058f103e56c7f3de9c4c",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/ebe28d49410510ee1721058f103e56c7f3de9c4c"
+    },
+    {
+      "path": "lib/ISO_5428.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d89f64964be77ee0c55dd6be6e8f2e3de29885bd",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d89f64964be77ee0c55dd6be6e8f2e3de29885bd"
+    },
+    {
+      "path": "lib/ISO_6937-2.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0182cf0f29f8f37c9296227d75fce65c1ae2b7ac",
+      "size": 20868,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0182cf0f29f8f37c9296227d75fce65c1ae2b7ac"
+    },
+    {
+      "path": "lib/ISO_6937.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "642b39b973c99baf5380c96974dba2a957258bcb",
+      "size": 20868,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/642b39b973c99baf5380c96974dba2a957258bcb"
+    },
+    {
+      "path": "lib/JOHAB.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b808d536119fb807f4b6737b4ca9869012f471ad",
+      "size": 21200,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/b808d536119fb807f4b6737b4ca9869012f471ad"
+    },
+    {
+      "path": "lib/KOI-8.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "24af501aaae6461d703b84b917f8161591dcece8",
+      "size": 12532,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/24af501aaae6461d703b84b917f8161591dcece8"
+    },
+    {
+      "path": "lib/KOI8-R.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "272b73059d75baf757bd1ffb795f46b37d3d52ce",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/272b73059d75baf757bd1ffb795f46b37d3d52ce"
+    },
+    {
+      "path": "lib/KOI8-RU.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d8f40008189ff0f3ff2996c8358966a00318269b",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d8f40008189ff0f3ff2996c8358966a00318269b"
+    },
+    {
+      "path": "lib/KOI8-T.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0f3c8612fd7c08d27d8a0d80ba5da02158fb1df4",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0f3c8612fd7c08d27d8a0d80ba5da02158fb1df4"
+    },
+    {
+      "path": "lib/KOI8-U.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8aa448ea0711903fbe3b72dd3089edb37b1318a9",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/8aa448ea0711903fbe3b72dd3089edb37b1318a9"
+    },
+    {
+      "path": "lib/LATIN-GREEK-1.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "562de9092667bf5fe538aa7a26219e35b2481775",
+      "size": 12568,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/562de9092667bf5fe538aa7a26219e35b2481775"
+    },
+    {
+      "path": "lib/LATIN-GREEK.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "cd667e96fe7576d930132c71feb481ad18e65d64",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/cd667e96fe7576d930132c71feb481ad18e65d64"
+    },
+    {
+      "path": "lib/MAC-CENTRALEUROPE.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "774f711d1fc1e4b6d2de7e5968c215099753f492",
+      "size": 12572,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/774f711d1fc1e4b6d2de7e5968c215099753f492"
+    },
+    {
+      "path": "lib/MAC-IS.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "418f9b42d34a764aaba1e76d2a052e5eb3ec7b82",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/418f9b42d34a764aaba1e76d2a052e5eb3ec7b82"
+    },
+    {
+      "path": "lib/MAC-SAMI.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "99602dac8538a72505b2b04c91887b66ed14c0d5",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/99602dac8538a72505b2b04c91887b66ed14c0d5"
+    },
+    {
+      "path": "lib/MAC-UK.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "31f98a47cdd4b622b9795f54d8dd1711724abbfb",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/31f98a47cdd4b622b9795f54d8dd1711724abbfb"
+    },
+    {
+      "path": "lib/MACINTOSH.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fd0d4c84245caa08e1cbcb57961cd8aebf4484da",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/fd0d4c84245caa08e1cbcb57961cd8aebf4484da"
+    },
+    {
+      "path": "lib/MIK.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8600679fb66b207109644a3954d66a7b0cfbc64b",
+      "size": 12556,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/8600679fb66b207109644a3954d66a7b0cfbc64b"
+    },
+    {
+      "path": "lib/NATS-DANO.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c420b53cf4bc6fade931f98b018bbc2ba1d3dd3d",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c420b53cf4bc6fade931f98b018bbc2ba1d3dd3d"
+    },
+    {
+      "path": "lib/NATS-SEFI.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2819adfaf623f7c67a80bdd2a64b99fdf524c919",
+      "size": 12564,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/2819adfaf623f7c67a80bdd2a64b99fdf524c919"
+    },
+    {
+      "path": "lib/PT154.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "98e63a135f6cc62cf4833e1a3f5fa378ee74b803",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/98e63a135f6cc62cf4833e1a3f5fa378ee74b803"
+    },
+    {
+      "path": "lib/RK1048.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0f603d3b41ee79c0a318c01241b099de97cc4f0a",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0f603d3b41ee79c0a318c01241b099de97cc4f0a"
+    },
+    {
+      "path": "lib/SAMI-WS2.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a01c505704900012e49075f9b3fcb3501a26a92b",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a01c505704900012e49075f9b3fcb3501a26a92b"
+    },
+    {
+      "path": "lib/SHIFT_JISX0213.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "302c34c5165c2cc16e1ee67276dcda92c99f1852",
+      "size": 16920,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/302c34c5165c2cc16e1ee67276dcda92c99f1852"
+    },
+    {
+      "path": "lib/SJIS.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a95626ebfab707f043bf727466aa24a83f6d5568",
+      "size": 94660,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a95626ebfab707f043bf727466aa24a83f6d5568"
+    },
+    {
+      "path": "lib/T.61.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "81e28ec5bfc19446ee70bd09db969149b8d7390f",
+      "size": 20864,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/81e28ec5bfc19446ee70bd09db969149b8d7390f"
+    },
+    {
+      "path": "lib/TCVN5712-1.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7b9f92559e757017612f5c0dc9086602768b4716",
+      "size": 16792,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/7b9f92559e757017612f5c0dc9086602768b4716"
+    },
+    {
+      "path": "lib/TIS-620.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7b063acd333927f2554e66928c6c35f088a3bfdb",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/7b063acd333927f2554e66928c6c35f088a3bfdb"
+    },
+    {
+      "path": "lib/TSCII.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e32be543201260ff1782939af6c784af8b3df12f",
+      "size": 20928,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/e32be543201260ff1782939af6c784af8b3df12f"
+    },
+    {
+      "path": "lib/UHC.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ec63e0279055761def4c8bcdb4b27575a99f552d",
+      "size": 74232,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/ec63e0279055761def4c8bcdb4b27575a99f552d"
+    },
+    {
+      "path": "lib/UNICODE.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "29170b69bfb9b9a29d1ab276b2181f89aba97a77",
+      "size": 12552,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/29170b69bfb9b9a29d1ab276b2181f89aba97a77"
+    },
+    {
+      "path": "lib/UTF-16.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "194bea4b1ec0ea0677f3b273e6a2e96d9a6441ea",
+      "size": 16668,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/194bea4b1ec0ea0677f3b273e6a2e96d9a6441ea"
+    },
+    {
+      "path": "lib/UTF-32.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "754b6ad668bcb183063af5c9f9feead10d35f1ac",
+      "size": 12556,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/754b6ad668bcb183063af5c9f9feead10d35f1ac"
+    },
+    {
+      "path": "lib/UTF-7.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e6f3d6cc8e063568f075459498bb225d288bcb2f",
+      "size": 20876,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/e6f3d6cc8e063568f075459498bb225d288bcb2f"
+    },
+    {
+      "path": "lib/VISCII.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b21c2058a3361c57cf3c2394e7323e80b06f37ec",
+      "size": 12560,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/b21c2058a3361c57cf3c2394e7323e80b06f37ec"
+    },
+    {
+      "path": "lib/ld-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "874e63e8568a888ce546e8421d33423b410f071b",
+      "size": 165544,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/874e63e8568a888ce546e8421d33423b410f071b"
+    },
+    {
+      "path": "lib/ld-linux.so.3",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "6b1a56f03d0886d631af37a769d3f83ac5a39011",
+      "size": 10,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/6b1a56f03d0886d631af37a769d3f83ac5a39011"
+    },
+    {
+      "path": "lib/libBrokenLocale-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7b1a7a7184e879140bb43ac572275e4aac03333e",
+      "size": 8084,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/7b1a7a7184e879140bb43ac572275e4aac03333e"
+    },
+    {
+      "path": "lib/libBrokenLocale.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "3946b15928b128e1189d66eb6d3cd3ad40d2f5e3",
+      "size": 30,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/3946b15928b128e1189d66eb6d3cd3ad40d2f5e3"
+    },
+    {
+      "path": "lib/libBrokenLocale.so.1",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "0548abaf616bcd527de4dbcc54fddb6b3292cc67",
+      "size": 23,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0548abaf616bcd527de4dbcc54fddb6b3292cc67"
+    },
+    {
+      "path": "lib/libCNS.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fbb4e1c553a52ba92245933484bb16a0397dcdd2",
+      "size": 467744,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/fbb4e1c553a52ba92245933484bb16a0397dcdd2"
+    },
+    {
+      "path": "lib/libGB.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "cd4ccfafa57befea1442b8eec00ec14413353eea",
+      "size": 69696,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/cd4ccfafa57befea1442b8eec00ec14413353eea"
+    },
+    {
+      "path": "lib/libISOIR165.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "473ee9a4e6636b5ac5379830535cd1c4a5ea01e3",
+      "size": 61224,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/473ee9a4e6636b5ac5379830535cd1c4a5ea01e3"
+    },
+    {
+      "path": "lib/libJIS.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fd334d1ba51336632a4202c3559dbe72549adab2",
+      "size": 102540,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/fd334d1ba51336632a4202c3559dbe72549adab2"
+    },
+    {
+      "path": "lib/libJISX0213.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "117b0495abc6eed32a334c84fd06bce1edd21a43",
+      "size": 122768,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/117b0495abc6eed32a334c84fd06bce1edd21a43"
+    },
+    {
+      "path": "lib/libKSC.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "81491a403974694005ea407e332fd573e5f3dc3f",
+      "size": 49020,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/81491a403974694005ea407e332fd573e5f3dc3f"
+    },
+    {
+      "path": "lib/libSegFault.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "847cb49766c0a2578a352386cbec66bc8bce0506",
+      "size": 13056,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/847cb49766c0a2578a352386cbec66bc8bce0506"
+    },
+    {
+      "path": "lib/libanl-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6534399bdb56f10a9bcdb02acf8265bc5d39badc",
+      "size": 15116,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/6534399bdb56f10a9bcdb02acf8265bc5d39badc"
+    },
+    {
+      "path": "lib/libanl.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "1aa73a4baf68c6a75368a3f5cd06cb76d5e0adc6",
+      "size": 21,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/1aa73a4baf68c6a75368a3f5cd06cb76d5e0adc6"
+    },
+    {
+      "path": "lib/libanl.so.1",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "8dc3b3602ef99bf8b5a8be5366a5011e2a9b8cfb",
+      "size": 14,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/8dc3b3602ef99bf8b5a8be5366a5011e2a9b8cfb"
+    },
+    {
+      "path": "lib/libatomic.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "0ff10a72132b56665f41532bd7385d4c92b98424",
+      "size": 18,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0ff10a72132b56665f41532bd7385d4c92b98424"
+    },
+    {
+      "path": "lib/libatomic.so.1",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "0ff10a72132b56665f41532bd7385d4c92b98424",
+      "size": 18,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0ff10a72132b56665f41532bd7385d4c92b98424"
+    },
+    {
+      "path": "lib/libatomic.so.1.1.0",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "53d6d25d3d6df34ef104d0869890f0835080c6c8",
+      "size": 23220,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/53d6d25d3d6df34ef104d0869890f0835080c6c8"
+    },
+    {
+      "path": "lib/libc-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3099b0a66b63357ddf0449438f08ea8e33beaf51",
+      "size": 1571088,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/3099b0a66b63357ddf0449438f08ea8e33beaf51"
+    },
+    {
+      "path": "lib/libc.so",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a79b29aa379712bb768aff9324bb7516b48617ca",
+      "size": 243,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a79b29aa379712bb768aff9324bb7516b48617ca"
+    },
+    {
+      "path": "lib/libc.so.6",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "77d3c6de5a1d821e9e15b40c6326423019662eed",
+      "size": 12,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/77d3c6de5a1d821e9e15b40c6326423019662eed"
+    },
+    {
+      "path": "lib/libcidn-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6c66eee00a10c8c3f55ab029efb6a62b812a300b",
+      "size": 189800,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/6c66eee00a10c8c3f55ab029efb6a62b812a300b"
+    },
+    {
+      "path": "lib/libcidn.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "a5229c19129fd60d61eb96f602e84839b354004b",
+      "size": 22,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/a5229c19129fd60d61eb96f602e84839b354004b"
+    },
+    {
+      "path": "lib/libcidn.so.1",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "c072b3097f26d9d8148de3aa3884cbf6af2bab61",
+      "size": 15,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c072b3097f26d9d8148de3aa3884cbf6af2bab61"
+    },
+    {
+      "path": "lib/libcrypt-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c4892b1191f679a28ac38a1744ae909aeea015a3",
+      "size": 36852,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c4892b1191f679a28ac38a1744ae909aeea015a3"
+    },
+    {
+      "path": "lib/libcrypt.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "f2c4c80f7a4ac939053aebccb52a7608586f1a10",
+      "size": 23,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/f2c4c80f7a4ac939053aebccb52a7608586f1a10"
+    },
+    {
+      "path": "lib/libcrypt.so.1",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "1adb36c5d9c98221e5b3b3750e189b7e1c34ceab",
+      "size": 16,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/1adb36c5d9c98221e5b3b3750e189b7e1c34ceab"
+    },
+    {
+      "path": "lib/libdl-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3b6f2cf6dc03849eea998a6f2ee353c69453d81f",
+      "size": 14912,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/3b6f2cf6dc03849eea998a6f2ee353c69453d81f"
+    },
+    {
+      "path": "lib/libdl.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "7afa95af6a19e62a13355c9fb1061a62f7391c19",
+      "size": 20,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/7afa95af6a19e62a13355c9fb1061a62f7391c19"
+    },
+    {
+      "path": "lib/libdl.so.2",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "5b0e6061205c363c2a103768b46a6abdd2fbc169",
+      "size": 13,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/5b0e6061205c363c2a103768b46a6abdd2fbc169"
+    },
+    {
+      "path": "lib/libgcc_s.so",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c8e92242fc5b32888222e279088df08e791bd52c",
+      "size": 132,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c8e92242fc5b32888222e279088df08e791bd52c"
+    },
+    {
+      "path": "lib/libgcc_s.so.1",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "083eb0f722fbe11e82000910e9f69bb131a54629",
+      "size": 1333440,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/083eb0f722fbe11e82000910e9f69bb131a54629"
+    },
+    {
+      "path": "lib/libm-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "341a01a7a33ee6e7e98b86049490acc83af4c18a",
+      "size": 736028,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/341a01a7a33ee6e7e98b86049490acc83af4c18a"
+    },
+    {
+      "path": "lib/libm.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "c60797dbfedf5441c71f2930d07198d7d1e37e76",
+      "size": 9,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c60797dbfedf5441c71f2930d07198d7d1e37e76"
+    },
+    {
+      "path": "lib/libm.so.6",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "c3a11f38d1fd60315024dd3d72e03932e4796870",
+      "size": 12,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c3a11f38d1fd60315024dd3d72e03932e4796870"
+    },
+    {
+      "path": "lib/libmemusage.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2f90acc2be59157b42f3cc1261cc691af7affa9d",
+      "size": 24324,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/2f90acc2be59157b42f3cc1261cc691af7affa9d"
+    },
+    {
+      "path": "lib/libnsl-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9c313b0fb7f120e1c46ad6597832d60c4fdffbc7",
+      "size": 93304,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/9c313b0fb7f120e1c46ad6597832d60c4fdffbc7"
+    },
+    {
+      "path": "lib/libnsl.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "37b57e4e554a33428007b6a26d1d5369083f53be",
+      "size": 21,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/37b57e4e554a33428007b6a26d1d5369083f53be"
+    },
+    {
+      "path": "lib/libnsl.so.1",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "2287f72ee1385d1c646abf0964840f918783aceb",
+      "size": 14,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/2287f72ee1385d1c646abf0964840f918783aceb"
+    },
+    {
+      "path": "lib/libnss_compat-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "999ca0395decadc6c9497c8649ad0c61f0e2b0ab",
+      "size": 34172,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/999ca0395decadc6c9497c8649ad0c61f0e2b0ab"
+    },
+    {
+      "path": "lib/libnss_compat.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "88fb049cd1c52d2a7e8739a458f523e9840875d3",
+      "size": 28,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/88fb049cd1c52d2a7e8739a458f523e9840875d3"
+    },
+    {
+      "path": "lib/libnss_compat.so.2",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "fd755dc3922b6429f654eece4f8288c57fec1a7d",
+      "size": 21,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/fd755dc3922b6429f654eece4f8288c57fec1a7d"
+    },
+    {
+      "path": "lib/libnss_db-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8937a4128b3035dad00caaf1063221a58b9b2123",
+      "size": 35636,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/8937a4128b3035dad00caaf1063221a58b9b2123"
+    },
+    {
+      "path": "lib/libnss_db.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "1ccb18f659f3c4e606ac9b35246040b277fd89fe",
+      "size": 24,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/1ccb18f659f3c4e606ac9b35246040b277fd89fe"
+    },
+    {
+      "path": "lib/libnss_db.so.2",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "0949b96eb6b272ffe9731a4563f8c707e7c815ba",
+      "size": 17,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0949b96eb6b272ffe9731a4563f8c707e7c815ba"
+    },
+    {
+      "path": "lib/libnss_dns-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "db41fe04848136bd59bcad5d15505b1ad6200264",
+      "size": 22636,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/db41fe04848136bd59bcad5d15505b1ad6200264"
+    },
+    {
+      "path": "lib/libnss_dns.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "350021a2df4f44184a35c8f72ede7ec0d573ba68",
+      "size": 25,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/350021a2df4f44184a35c8f72ede7ec0d573ba68"
+    },
+    {
+      "path": "lib/libnss_dns.so.2",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "662a31a8134d8bceeecce26fd85defd796e0a451",
+      "size": 18,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/662a31a8134d8bceeecce26fd85defd796e0a451"
+    },
+    {
+      "path": "lib/libnss_files-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "597d7211c6636e0083b079002feaf290776a05b7",
+      "size": 49572,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/597d7211c6636e0083b079002feaf290776a05b7"
+    },
+    {
+      "path": "lib/libnss_files.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "0d5d219d065d6caa176914d591e441b40434ca1b",
+      "size": 27,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0d5d219d065d6caa176914d591e441b40434ca1b"
+    },
+    {
+      "path": "lib/libnss_files.so.2",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "225033d717e9aa037b0ce3ed6fa63c3e1503e72c",
+      "size": 20,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/225033d717e9aa037b0ce3ed6fa63c3e1503e72c"
+    },
+    {
+      "path": "lib/libnss_hesiod-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f8a62e1fa783001d0e46baadcca27e942c9e3ab2",
+      "size": 19248,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/f8a62e1fa783001d0e46baadcca27e942c9e3ab2"
+    },
+    {
+      "path": "lib/libnss_hesiod.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "fbbde919605dd8603bda93c4a703767d2e798301",
+      "size": 28,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/fbbde919605dd8603bda93c4a703767d2e798301"
+    },
+    {
+      "path": "lib/libnss_hesiod.so.2",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "0ddc3a554997ed2037e10c8d8f523a04aac6a59d",
+      "size": 21,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0ddc3a554997ed2037e10c8d8f523a04aac6a59d"
+    },
+    {
+      "path": "lib/libnss_nis-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d4cdaf8c5193641f3d1eb253bc4475f3b37e2362",
+      "size": 49252,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d4cdaf8c5193641f3d1eb253bc4475f3b37e2362"
+    },
+    {
+      "path": "lib/libnss_nis.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "39049ed490115092e718b266943a410b3ad26c9c",
+      "size": 25,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/39049ed490115092e718b266943a410b3ad26c9c"
+    },
+    {
+      "path": "lib/libnss_nis.so.2",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "0b989be20ccbe7519fabf180edfd3e694168f4dc",
+      "size": 18,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/0b989be20ccbe7519fabf180edfd3e694168f4dc"
+    },
+    {
+      "path": "lib/libnss_nisplus-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5e3a8c22310dfd89417fbd9f7465865cc3806936",
+      "size": 63000,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/5e3a8c22310dfd89417fbd9f7465865cc3806936"
+    },
+    {
+      "path": "lib/libnss_nisplus.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "b541aea993a1e9973ffe5f4c0ff492688be04a9e",
+      "size": 29,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/b541aea993a1e9973ffe5f4c0ff492688be04a9e"
+    },
+    {
+      "path": "lib/libnss_nisplus.so.2",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "6a2c01c9e8e0f92da8dfad94eb5f7495013b212a",
+      "size": 22,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/6a2c01c9e8e0f92da8dfad94eb5f7495013b212a"
+    },
+    {
+      "path": "lib/libpcprofile.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7e2a2ed5a2787c6efdd3710313743b6d20603771",
+      "size": 8380,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/7e2a2ed5a2787c6efdd3710313743b6d20603771"
+    },
+    {
+      "path": "lib/libpthread-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "cf0a1d9bce6c8f7cd3adba4833d359710146e87a",
+      "size": 140392,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/cf0a1d9bce6c8f7cd3adba4833d359710146e87a"
+    },
+    {
+      "path": "lib/libpthread.so",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fffc243dd5acc97acc602b07cc168b56ac2d530",
+      "size": 221,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/7fffc243dd5acc97acc602b07cc168b56ac2d530"
+    },
+    {
+      "path": "lib/libpthread.so.0",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "b195df275c5a27d9b1a900c2ec9ba8f2cd341050",
+      "size": 18,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/b195df275c5a27d9b1a900c2ec9ba8f2cd341050"
+    },
+    {
+      "path": "lib/libresolv-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "268476e49793b72b22cad3c7e583b6a4bec7d86f",
+      "size": 92752,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/268476e49793b72b22cad3c7e583b6a4bec7d86f"
+    },
+    {
+      "path": "lib/libresolv.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "c1959f95596528f53e9db6ed2af37c35bd2d03e8",
+      "size": 24,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/c1959f95596528f53e9db6ed2af37c35bd2d03e8"
+    },
+    {
+      "path": "lib/libresolv.so.2",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "6a4db655d3326fee9d28dbe4bae1da6f3621c17e",
+      "size": 17,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/6a4db655d3326fee9d28dbe4bae1da6f3621c17e"
+    },
+    {
+      "path": "lib/librt-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "eb3cbb0edd156146fcdad1355e52644180f60724",
+      "size": 39336,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/eb3cbb0edd156146fcdad1355e52644180f60724"
+    },
+    {
+      "path": "lib/librt.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "75d37e95fa5ed87dbfceb90f874e59675df7a133",
+      "size": 20,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/75d37e95fa5ed87dbfceb90f874e59675df7a133"
+    },
+    {
+      "path": "lib/librt.so.1",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "dffcece8b37568755bbc18e7b6b4a76007b2b929",
+      "size": 13,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/dffcece8b37568755bbc18e7b6b4a76007b2b929"
+    },
+    {
+      "path": "lib/libstdc++.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "aa1a89183ad57e8746d884fcf1ba1f7ae46eee33",
+      "size": 19,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/aa1a89183ad57e8746d884fcf1ba1f7ae46eee33"
+    },
+    {
+      "path": "lib/libstdc++.so.6",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "aa1a89183ad57e8746d884fcf1ba1f7ae46eee33",
+      "size": 19,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/aa1a89183ad57e8746d884fcf1ba1f7ae46eee33"
+    },
+    {
+      "path": "lib/libstdc++.so.6.0.21",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "41fb085f21fcd11f486f1cf67f968032bc7c155f",
+      "size": 1593884,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/41fb085f21fcd11f486f1cf67f968032bc7c155f"
+    },
+    {
+      "path": "lib/libstdc++.so.6.0.21-gdb.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cdc196bb033e644a0b0ea75ab1d6f015a70abd30",
+      "size": 2550,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/cdc196bb033e644a0b0ea75ab1d6f015a70abd30"
+    },
+    {
+      "path": "lib/libthread_db-1.0.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4bfaf69e87ae9ce5c57e94de78834c59693ba91b",
+      "size": 36280,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/4bfaf69e87ae9ce5c57e94de78834c59693ba91b"
+    },
+    {
+      "path": "lib/libthread_db.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "e05f68f2531e8d1917181915df2793daaea59801",
+      "size": 27,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/e05f68f2531e8d1917181915df2793daaea59801"
+    },
+    {
+      "path": "lib/libthread_db.so.1",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "bc5251421b2fc5776c23fa589069b49b1356c5ba",
+      "size": 19,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/bc5251421b2fc5776c23fa589069b49b1356c5ba"
+    },
+    {
+      "path": "lib/libutil-2.24.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bc5233ba07fa919a90e41fd04e2c3b7ef3c89e55",
+      "size": 13916,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/bc5233ba07fa919a90e41fd04e2c3b7ef3c89e55"
+    },
+    {
+      "path": "lib/libutil.so",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "2d450b0faada443d895e6ec82e51bb91d2ea328b",
+      "size": 22,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/2d450b0faada443d895e6ec82e51bb91d2ea328b"
+    },
+    {
+      "path": "lib/libutil.so.1",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "e08b86f19ca35912fc66453c6ebd1c355b26fa7a",
+      "size": 15,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/e08b86f19ca35912fc66453c6ebd1c355b26fa7a"
+    },
+    {
+      "path": "lib/libwlctl.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8f0be58c7ad4e51da931b4b1517a0c0c3cb1e959",
+      "size": 1839540,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/8f0be58c7ad4e51da931b4b1517a0c0c3cb1e959"
+    },
+    {
+      "path": "lib/libwlupnp.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "da89594a6175ad494d076628e87496a3d64caaaa",
+      "size": 151008,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/da89594a6175ad494d076628e87496a3d64caaaa"
+    },
+    {
+      "path": "lib/libwps.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5ed4b85cfb0969c1592ae3c53b90054e05fd26df",
+      "size": 135280,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/5ed4b85cfb0969c1592ae3c53b90054e05fd26df"
+    },
+    {
+      "path": "lib/sotruss-lib.so",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e6cfa18540925becffec05cc0d385c6775a1f824",
+      "size": 13156,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/e6cfa18540925becffec05cc0d385c6775a1f824"
+    },
+    {
+      "path": "usr",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "405614ff4decdd2862f856ca918880ea02f4b6d7",
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/405614ff4decdd2862f856ca918880ea02f4b6d7"
+    },
+    {
+      "path": "usr/sbin",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3e072b6e2561d27ae24f4ecabf09d35909477c76",
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/trees/3e072b6e2561d27ae24f4ecabf09d35909477c76"
+    },
+    {
+      "path": "usr/sbin/bsd",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d763787ed7a8fea87f2da0a7c4f903fb70c8581b",
+      "size": 174812,
+      "url": "https://api.github.com/repos/0Lukee/vox30-sercomm-shg3000/git/blobs/d763787ed7a8fea87f2da0a7c4f903fb70c8581b"
+    }
+  ],
+  "truncated": false
+}

@@ -1,0 +1,40 @@
+{
+  "login_http": 200,
+  "login_code": "1",
+  "credentials_source": "exact1.2.02.08 default_GR.xml",
+  "settings_changed": false,
+  "firmware_uploaded": false,
+  "user_data": {
+    "status": 200,
+    "fields": [
+      {
+        "username": "superuser"
+      },
+      {
+        "usermode": "admin"
+      },
+      {
+        "fw_version": "Vodafone-H-300s-v1.2.02.08"
+      },
+      {
+        "userprofile": ""
+      }
+    ]
+  },
+  "settings_password": {
+    "status": 200,
+    "fields": [
+      {
+        "user_id": "1"
+      },
+      {
+        "username": "superuser"
+      }
+    ]
+  },
+  "firmware_page": {
+    "status": 200,
+    "bytes": 2018,
+    "upload_container": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "artifact": "/home/user/Development/router-research/h300s/firmware-analysis/Vodafone_H_300s_v1.2.02.08/rootfs/lib/libutility.so",
+  "sha256": "2d4e3b9c1d41573c4b531e9b0b6c62f6fe77faf065d4251dc1f90bd741450514",
+  "function": "getFwVersion",
+  "address": "0x5dbc",
+  "observed_file_path": "/tmp/fw_info/fw_ver",
+  "file_path_rodata": "0x14974",
+  "read_pattern": "access check; fopen; fgets up to128; newline removal; formatting with Vodafone-H-300s-v prefix",
+  "implication": "Debug gate depends on runtime version file; no supported method to change it without flash has been established.",
+  "router_requests": false
+}

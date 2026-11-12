@@ -1,0 +1,32 @@
+# --- Vendor firmware blobs (copyright; large; already public on k-marios/Gr_ISP_Router_Firmware) ---
+*.img
+
+# --- Extracted firmware rootfs trees (vendor files, SSH host keys, vsftpd.pem; huge) ---
+firmware-analysis/*/
+
+# --- Decrypted plaintext config (VOIP + account passwords) ---
+config-analysis/decoded/
+
+# --- Live device backups / exported configs ---
+unit-backups/
+original.config
+*.config
+
+# --- Session state / credentials ---
+*.cookies
+http-session.cookies
+
+# --- Python cruft ---
+__pycache__/
+*.pyc
+
+# --- Local tooling binaries ---
+tools/*.deb
+
+# --- Raw live device syslogs (real MACs / hostnames) ---
+unit-logs/**/system.log
+*.backup
+*.before-ssh.py
+
+# --- Bulky raw firmware-SDK file listing (dropped from publish) ---
+h300s-sdk-user-tree.json

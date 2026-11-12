@@ -1,0 +1,90 @@
+
+/home/user/Development/router-research/h300s/firmware-analysis/Vodafone_H_300s_v1.2.02.08/rootfs/lib/libutility.so:     file format elf32-tradbigmips
+
+
+Disassembly of section .text:
+
+00005dbc <getFwVersion>:
+    5dbc:	3c1c0003 	lui	gp,0x3
+    5dc0:	279c8934 	addiu	gp,gp,-30412
+    5dc4:	0399e021 	addu	gp,gp,t9
+    5dc8:	27bdff58 	addiu	sp,sp,-168
+    5dcc:	afbf00a4 	sw	ra,164(sp)
+    5dd0:	afb200a0 	sw	s2,160(sp)
+    5dd4:	afb1009c 	sw	s1,156(sp)
+    5dd8:	afb00098 	sw	s0,152(sp)
+    5ddc:	8f9980f0 	lw	t9,-32528(gp)
+    5de0:	27b00018 	addiu	s0,sp,24
+    5de4:	afbc0010 	sw	gp,16(sp)
+    5de8:	00808821 	move	s1,a0
+    5dec:	00002821 	move	a1,zero
+    5df0:	02002021 	move	a0,s0
+    5df4:	0320f809 	jalr	t9
+    5df8:	24060080 	li	a2,128
+    5dfc:	16200003 	bnez	s1,5e0c <getFwVersion+0x50>
+    5e00:	8fbc0010 	lw	gp,16(sp)
+    5e04:	10000030 	b	5ec8 <getFwVersion+0x10c>
+    5e08:	00001021 	move	v0,zero
+    5e0c:	8f85802c 	lw	a1,-32724(gp)
+    5e10:	8f998274 	lw	t9,-32140(gp)
+    5e14:	02202021 	move	a0,s1
+    5e18:	0320f809 	jalr	t9
+    5e1c:	24a54e4c 	addiu	a1,a1,20044
+    5e20:	8fbc0010 	lw	gp,16(sp)
+    5e24:	00002821 	move	a1,zero
+    5e28:	8f92802c 	lw	s2,-32724(gp)
+    5e2c:	8f9980a4 	lw	t9,-32604(gp)
+    5e30:	0320f809 	jalr	t9
+    5e34:	26444974 	addiu	a0,s2,18804
+    5e38:	1440fff2 	bnez	v0,5e04 <getFwVersion+0x48>
+    5e3c:	8fbc0010 	lw	gp,16(sp)
+    5e40:	8f85802c 	lw	a1,-32724(gp)
+    5e44:	8f9980fc 	lw	t9,-32516(gp)
+    5e48:	26444974 	addiu	a0,s2,18804
+    5e4c:	0320f809 	jalr	t9
+    5e50:	24a549ec 	addiu	a1,a1,18924
+    5e54:	00409021 	move	s2,v0
+    5e58:	1040ffea 	beqz	v0,5e04 <getFwVersion+0x48>
+    5e5c:	8fbc0010 	lw	gp,16(sp)
+    5e60:	8f998218 	lw	t9,-32232(gp)
+    5e64:	02002021 	move	a0,s0
+    5e68:	24050080 	li	a1,128
+    5e6c:	0320f809 	jalr	t9
+    5e70:	00403021 	move	a2,v0
+    5e74:	8fbc0010 	lw	gp,16(sp)
+    5e78:	02002021 	move	a0,s0
+    5e7c:	8f998070 	lw	t9,-32656(gp)
+    5e80:	0320f809 	jalr	t9
+    5e84:	2405000a 	li	a1,10
+    5e88:	10400002 	beqz	v0,5e94 <getFwVersion+0xd8>
+    5e8c:	8fbc0010 	lw	gp,16(sp)
+    5e90:	a0400000 	sb	zero,0(v0)
+    5e94:	8f9980e8 	lw	t9,-32536(gp)
+    5e98:	0320f809 	jalr	t9
+    5e9c:	02402021 	move	a0,s2
+    5ea0:	8fbc0010 	lw	gp,16(sp)
+    5ea4:	02202021 	move	a0,s1
+    5ea8:	02003821 	move	a3,s0
+    5eac:	8f85802c 	lw	a1,-32724(gp)
+    5eb0:	8f86802c 	lw	a2,-32724(gp)
+    5eb4:	8f9980cc 	lw	t9,-32564(gp)
+    5eb8:	24a54988 	addiu	a1,a1,18824
+    5ebc:	0320f809 	jalr	t9
+    5ec0:	24c64990 	addiu	a2,a2,18832
+    5ec4:	24020001 	li	v0,1
+    5ec8:	8fbf00a4 	lw	ra,164(sp)
+    5ecc:	8fb200a0 	lw	s2,160(sp)
+    5ed0:	8fb1009c 	lw	s1,156(sp)
+    5ed4:	8fb00098 	lw	s0,152(sp)
+    5ed8:	03e00008 	jr	ra
+    5edc:	27bd00a8 	addiu	sp,sp,168
+
+
+/home/user/Development/router-research/h300s/firmware-analysis/Vodafone_H_300s_v1.2.02.08/rootfs/lib/libutility.so:     file format elf32-tradbigmips
+
+Contents of section .rodata:
+ 14960 30000000 566f6461 666f6e65 20482033  0...Vodafone H 3
+ 14970 30307300 2f746d70 2f66775f 696e666f  00s./tmp/fw_info
+ 14980 2f66775f 76657200 25732573 00000000  /fw_ver.%s%s....
+ 14990 566f6461 666f6e65 2d482d33 3030732d  Vodafone-H-300s-
+ 149a0 76000000 25735f25 73000000 2f757372  v...%s_%s.../usr

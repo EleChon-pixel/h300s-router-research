@@ -1,0 +1,28 @@
+[
+  {
+    "endpoint": "user_data",
+    "status": 200,
+    "fields": {
+      "usermode": "user",
+      "userprofile": "",
+      "debug_fw": ""
+    }
+  },
+  {
+    "endpoint": "settings_fw_update",
+    "status": 200,
+    "fields": {
+      "update_status": "0",
+      "update_msg": "0",
+      "fw_version": "Vodafone-H-300s-v1.2.02.08"
+    }
+  },
+  {
+    "endpoint": "settings_access_control",
+    "status": 200,
+    "fields": {
+      "ssh_lan": "deny",
+      "ssh_status": "0"
+    }
+  }
+]

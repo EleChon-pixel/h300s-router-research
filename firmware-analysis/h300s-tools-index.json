@@ -1,0 +1,34 @@
+[
+  {
+    "name": "README.md",
+    "path": "h300s_plus/README.md",
+    "sha": "e41c23212e8c41a79039f2036036b46b3a3ec5e4",
+    "size": 4752,
+    "url": "https://api.github.com/repos/edisionnano/Sercomm_Tools/contents/h300s_plus/README.md?ref=main",
+    "html_url": "https://github.com/edisionnano/Sercomm_Tools/blob/main/h300s_plus/README.md",
+    "git_url": "https://api.github.com/repos/edisionnano/Sercomm_Tools/git/blobs/e41c23212e8c41a79039f2036036b46b3a3ec5e4",
+    "download_url": "https://raw.githubusercontent.com/edisionnano/Sercomm_Tools/main/h300s_plus/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/edisionnano/Sercomm_Tools/contents/h300s_plus/README.md?ref=main",
+      "git": "https://api.github.com/repos/edisionnano/Sercomm_Tools/git/blobs/e41c23212e8c41a79039f2036036b46b3a3ec5e4",
+      "html": "https://github.com/edisionnano/Sercomm_Tools/blob/main/h300s_plus/README.md"
+    }
+  },
+  {
+    "name": "Scripts",
+    "path": "h300s_plus/Scripts",
+    "sha": "800e83e4a80a2359a2d408aec251c3269a4ee382",
+    "size": 0,
+    "url": "https://api.github.com/repos/edisionnano/Sercomm_Tools/contents/h300s_plus/Scripts?ref=main",
+    "html_url": "https://github.com/edisionnano/Sercomm_Tools/tree/main/h300s_plus/Scripts",
+    "git_url": "https://api.github.com/repos/edisionnano/Sercomm_Tools/git/trees/800e83e4a80a2359a2d408aec251c3269a4ee382",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/edisionnano/Sercomm_Tools/contents/h300s_plus/Scripts?ref=main",
+      "git": "https://api.github.com/repos/edisionnano/Sercomm_Tools/git/trees/800e83e4a80a2359a2d408aec251c3269a4ee382",
+      "html": "https://github.com/edisionnano/Sercomm_Tools/tree/main/h300s_plus/Scripts"
+    }
+  }
+]

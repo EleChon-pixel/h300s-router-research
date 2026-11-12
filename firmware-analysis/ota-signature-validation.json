@@ -1,0 +1,32 @@
+[
+  {
+    "image": "Vodafone_H_300s_v1.2.02.08",
+    "returncode": 0,
+    "result": "Verified OK",
+    "error": "",
+    "signature_sha256": "217ff65afe97f0de02735f99a4029df6ec59f06de452b468e7bef15a3820ff01",
+    "hardware_id": "43533900",
+    "product_id": "41303031",
+    "key_sha256": "372bb224f57763f3dfc87f756175b2a7bcb971ae29d23ea826ccc81b218c2ac9"
+  },
+  {
+    "image": "current-debug-research",
+    "returncode": 0,
+    "result": "Verified OK",
+    "error": "",
+    "signature_sha256": "19a6e968898f4abb16b6cf0523d360c0b46a29001c8a4f4e57a46d60d7b48395",
+    "hardware_id": "43533900",
+    "product_id": "41303031",
+    "key_sha256": "372bb224f57763f3dfc87f756175b2a7bcb971ae29d23ea826ccc81b218c2ac9"
+  },
+  {
+    "image": "older-stock-research",
+    "returncode": 0,
+    "result": "Verified OK",
+    "error": "",
+    "signature_sha256": "f9fcf444343810ddc6caacf612e0d5363ea380b1befdb8bac8218503f6f639f6",
+    "hardware_id": "43533900",
+    "product_id": "41303031",
+    "key_sha256": "372bb224f57763f3dfc87f756175b2a7bcb971ae29d23ea826ccc81b218c2ac9"
+  }
+]

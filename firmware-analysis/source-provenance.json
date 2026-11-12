@@ -1,0 +1,16 @@
+[
+  {
+    "source_url": "https://raw.githubusercontent.com/edisionnano/Sercomm_Tools/main/h300s_plus/Scripts/decrypt_fw.py",
+    "repository_blob_sha1": "f7790bee59a02f2c5ccc3afacad7a255c401f157",
+    "download_sha256": "425044f4c51b837556f65346932ebf087d00887ed6d9ccd53b05d151dd192584",
+    "local_file": "decrypt_fw_upstream.py",
+    "repository_blob_matches": true
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/edisionnano/Sercomm_Tools/main/h300s_plus/Scripts/decrypt_default_xml.py",
+    "repository_blob_sha1": "ab6791a194e36c00f9407d7dc97e96a0d46e3182",
+    "download_sha256": "4e5a85ddd3712f2cda3088c6755184cc01ab3455f8424d7f1889d93f188d548f",
+    "local_file": "decrypt_default_xml_upstream.py",
+    "repository_blob_matches": true
+  }
+]

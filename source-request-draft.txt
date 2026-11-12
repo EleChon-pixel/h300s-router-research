@@ -1,0 +1,13 @@
+Subject: Corresponding source request — Vodafone Greece Sercomm H300s V3
+
+Hello,
+
+I own a Vodafone Greece Sercomm H300s, hardware revision V3, running Vodafone-H-300s-v1.2.02.08. The web interface reports bootloader version 1.01.1.
+
+Please provide the corresponding source covered by the open-source offer for this firmware, including the modified Linux kernel and applicable drivers, build configuration, toolchain information and build scripts, and any covered bootloader source. Please also provide the applicable open-source notices and instructions for obtaining the source.
+
+If available, I would appreciate the earlier H300s source archive referenced as R065-A-2022-0022, associated in community reports with firmware 1.2.00.09, and any public documentation for stock firmware recovery.
+
+My purpose is device preservation and research on hardware I own.
+
+Thank you.

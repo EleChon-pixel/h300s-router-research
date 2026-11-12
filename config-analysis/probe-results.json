@@ -1,0 +1,10 @@
+{
+  "sha256": "5ae3325df9a7cc37a1718547a7da5ee9c5f2449b9acea7e35b8e0f83dccca37a",
+  "bytes": 41370,
+  "payload_bytes": 41232,
+  "hypotheses_tested": 420,
+  "matches": [],
+  "password_saved": false,
+  "plaintext_saved": false,
+  "limitation": "Bounded CBC/KDF variants; no match does not exclude AES, a private device key, or another format."
+}

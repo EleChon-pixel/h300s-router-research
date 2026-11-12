@@ -1,0 +1,6 @@
+{
+  "hypotheses_tested": 18,
+  "matches": [],
+  "password_saved": false,
+  "limitation": "Only common unsalted AES key derivations and CBC/ECB layouts tested; failure does not exclude AES or the supplied password."
+}

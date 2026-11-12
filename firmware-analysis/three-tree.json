@@ -1,0 +1,182 @@
+{
+  "sha": "7d5515e2b8487c2561878499c3dfc2851345018b",
+  "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/trees/7d5515e2b8487c2561878499c3dfc2851345018b",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27ea0ecab868f0cc03e6ba9c2231add50b1f9521",
+      "size": 13,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/27ea0ecab868f0cc03e6ba9c2231add50b1f9521"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f401e455e8c680a134c413935b379b51fe839f9",
+      "size": 4071,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/6f401e455e8c680a134c413935b379b51fe839f9"
+    },
+    {
+      "path": "SerComm-Downlad-Mode.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7a595283272903894db3fbc6d8f90fd5a73aff0",
+      "size": 85872,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/b7a595283272903894db3fbc6d8f90fd5a73aff0"
+    },
+    {
+      "path": "boot-image.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "22334bf76f823b375592e29ce33bcca4ff87fcaf",
+      "size": 890,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/22334bf76f823b375592e29ce33bcca4ff87fcaf"
+    },
+    {
+      "path": "build-tools.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "47d9a73a155dbd052d764f3247bdb865ef112c00",
+      "size": 1037,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/47d9a73a155dbd052d764f3247bdb865ef112c00"
+    },
+    {
+      "path": "extract-sercomm-firmware.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "34b0ce1cd49a20a5d93f91a9c043d914ad51cd3e",
+      "size": 263,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/34b0ce1cd49a20a5d93f91a9c043d914ad51cd3e"
+    },
+    {
+      "path": "extract-uboot.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "199f84b04f0b89d7a0a408c62f73b0398fc9822e",
+      "size": 1519,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/199f84b04f0b89d7a0a408c62f73b0398fc9822e"
+    },
+    {
+      "path": "install-deps.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b7e00c930694891c6ca2a877e96460ef5098ca9e",
+      "size": 124,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/b7e00c930694891c6ca2a877e96460ef5098ca9e"
+    },
+    {
+      "path": "setup-playground.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6efa2ca41c0ff2930d1766fe4e81c679b003cd4b",
+      "size": 2196,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/6efa2ca41c0ff2930d1766fe4e81c679b003cd4b"
+    },
+    {
+      "path": "shutdown-images.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7b3103084ccc193fec655ec34e92e5e9d433cb9b",
+      "size": 436,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/7b3103084ccc193fec655ec34e92e5e9d433cb9b"
+    },
+    {
+      "path": "uboot",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "306ba1c74e1919ec02236eff0fadc9590e09724b",
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/trees/306ba1c74e1919ec02236eff0fadc9590e09724b"
+    },
+    {
+      "path": "uboot/uBoot1",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "532b76d3e78e180de5907b242d5e00f03d40feb1",
+      "size": 268356,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/532b76d3e78e180de5907b242d5e00f03d40feb1"
+    },
+    {
+      "path": "uboot/uBoot1-lzma",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93c65d0792fcc824e804092c366d94f3dc3c3270",
+      "size": 102745,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/93c65d0792fcc824e804092c366d94f3dc3c3270"
+    },
+    {
+      "path": "uboot/uBoot1-strings.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c5c85fce2ca866a72c9f919909403874368c4be",
+      "size": 48291,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/9c5c85fce2ca866a72c9f919909403874368c4be"
+    },
+    {
+      "path": "uboot/uBoot2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "532b76d3e78e180de5907b242d5e00f03d40feb1",
+      "size": 268356,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/532b76d3e78e180de5907b242d5e00f03d40feb1"
+    },
+    {
+      "path": "uboot/uBoot2-lzma",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93c65d0792fcc824e804092c366d94f3dc3c3270",
+      "size": 102745,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/93c65d0792fcc824e804092c366d94f3dc3c3270"
+    },
+    {
+      "path": "uboot/uBoot2-strings.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c5c85fce2ca866a72c9f919909403874368c4be",
+      "size": 48291,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/9c5c85fce2ca866a72c9f919909403874368c4be"
+    },
+    {
+      "path": "uboot/uImage1",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c56e0f3d29264708b6e80c74ef97555441d21ad2",
+      "size": 102809,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/c56e0f3d29264708b6e80c74ef97555441d21ad2"
+    },
+    {
+      "path": "uboot/uImage2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c56e0f3d29264708b6e80c74ef97555441d21ad2",
+      "size": 102809,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/c56e0f3d29264708b6e80c74ef97555441d21ad2"
+    },
+    {
+      "path": "uboot/uboot-environment-strings.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "547af1c2093a747eea4386657602260cac56fd80",
+      "size": 3550,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/547af1c2093a747eea4386657602260cac56fd80"
+    },
+    {
+      "path": "uboot/uboot-environment.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "889f1b05e81945afa496b3000d0fdb5ed5919d60",
+      "size": 16384,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/889f1b05e81945afa496b3000d0fdb5ed5919d60"
+    },
+    {
+      "path": "xmltool.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2ffae557e0ab6233a084b4942b41d25b56d002c",
+      "size": 2377,
+      "url": "https://api.github.com/repos/shantur/Three-4G-Hub-Firmware-Analysis/git/blobs/e2ffae557e0ab6233a084b4942b41d25b56d002c"
+    }
+  ],
+  "truncated": false
+}

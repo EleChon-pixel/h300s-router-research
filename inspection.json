@@ -1,0 +1,14 @@
+{
+  "input_file": "Speedport_Plus_Vodafone-H-300s-v1.2.02.08_1970-10-10_135037.config",
+  "sha256": "5ae3325df9a7cc37a1718547a7da5ee9c5f2449b9acea7e35b8e0f83dccca37a",
+  "bytes": 41370,
+  "header_bytes": 138,
+  "payload_bytes": 41232,
+  "payload_multiple_of_16": true,
+  "valid_zlib_streams": [],
+  "firmware": "Vodafone-H-300s-v1.2.02.08",
+  "hardware_revision": "V3",
+  "bootloader_ui_version": "1.01.1",
+  "decrypted": false,
+  "router_modified": false
+}

@@ -1,0 +1,13 @@
+{
+  "byte_identical_roundtrip": true,
+  "format_matches": [
+    {
+      "hex_case": "upper",
+      "suffix_hex": ""
+    }
+  ],
+  "input_sha256": "5ae3325df9a7cc37a1718547a7da5ee9c5f2449b9acea7e35b8e0f83dccca37a",
+  "plaintext_written": false,
+  "ciphertext_written": false,
+  "password_saved": false
+}
